@@ -1,0 +1,3724 @@
+
+<!DOCTYPE html>
+
+<!--[if IE 8]> <html lang="sr" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="sr" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="sr">
+<!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="dns-prefetch" href="//img.halooglasi.com" />
+	<!-- <link rel="dns-prefetch" href="//static.halooglasi.com" /> -->
+	<link rel="dns-prefetch" href="https://rs.adocean.pl" />
+	<link rel="dns-prefetch" href="https://ls.hit.gemius.pl" />
+	<link rel="dns-prefetch" href="https://adrs.hit.gemius.pl" />
+	<link rel="dns-prefetch" href="https://gars.hit.gemius.pl" />
+	<link rel="dns-prefetch" href="https://apis.google.com" />
+	<link rel="dns-prefetch" href="https://connect.facebook.net" />
+	<link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+	<link rel="dns-prefetch" href="https://lokator.planplus.rs" />
+	<link rel="preconnect" href="//img.halooglasi.com">
+	<!-- <link rel="preconnect" href="//static.halooglasi.com"> -->
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<meta property="fb:app_id" content="234300679986119" />
+	<title>Karting | Halo Oglasi</title><meta name="title" content="Karting"/><meta name="description" content="Na prodaju karting Ovo je usluzan oglas, za sve informacije obratiti se na sledeći broj telefona - Mića Za ozbiljnog kupca moguca korekcija cene."/><meta name="robots" content="all"/><meta property="fb:admins" content="774089194"><meta property="og:title" content="Karting"/><meta itemprop="name" content="Karting"/><meta property="og:description" content="Na prodaju karting Ovo je usluzan oglas, za sve informacije obratiti se na sledeći broj telefona - Mića Za ozbiljnog kupca moguca korekcija cene."/><meta itemprop="description" content="Na prodaju karting Ovo je usluzan oglas, za sve informacije obratiti se na sledeći broj telefona - Mića Za ozbiljnog kupca moguca korekcija cene."/><meta property="og:image" content="https://img.halooglasi.com/slike/oglasi/Thumbs/191124/l/karting-5425635280408-71789975214.jpg"/><meta itemprop="image" content="https://img.halooglasi.com/slike/oglasi/Thumbs/191124/l/karting-5425635280408-71789975214.jpg"/><meta property="og:image" content="https://img.halooglasi.com/slike/kategorije/market-vozila-share-image-3.png"/><meta itemprop="image" content="https://img.halooglasi.com/slike/kategorije/market-vozila-share-image-3.png"/><meta property="og:type" content="article"/><meta property="og:url" content="https://www.halooglasi.com/sport-i-rekreacija/ostala-sportska-oprema/karting/5425635280408"/><meta property="og:site_name" content="Halo Oglasi"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Karting"/><meta name="twitter:description" content="Na prodaju karting Ovo je usluzan oglas, za sve informacije obratiti se na sledeći broj telefona - Mića Za ozbiljnog kupca moguca korekcija cene."/><meta name="twitter:image" content="https://img.halooglasi.com/slike/oglasi/Thumbs/191124/l/karting-5425635280408-71789975214.jpg"/><meta name="twitter:url" content="https://www.halooglasi.com/sport-i-rekreacija/ostala-sportska-oprema/karting/5425635280408"/><link rel="canonical" href="https://www.halooglasi.com/sport-i-rekreacija/ostala-sportska-oprema/karting/5425635280408"/><script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","name":"Karting","description":"Na prodaju karting Ovo je usluzan oglas, za sve informacije obratiti se na sledeći broj telefona - Mića Za ozbiljnog kupca moguca korekcija cene.","image":"https://img.halooglasi.com/slike/oglasi/Thumbs/191124/l/karting-5425635280408-71789975214.jpg","url":"https://www.halooglasi.com/sport-i-rekreacija/ostala-sportska-oprema/karting/5425635280408","category":"Market>Sport i rekreacija>Ostala sportska oprema","offers":{"@type":"Offer","price":1100.0,"priceCurrency":"EUR"}}</script>
+	<meta name="referrer" content="no-referrer-when-downgrade">
+
+
+
+	<link href="/Content/app.min.css?ver=1.1.2212.1.j" rel="stylesheet">
+
+	
+	<link rel="stylesheet" href="/Content/assets/global/plugins/leaflet/leaflet.min.css"/><link rel="stylesheet" href="/Content/assets/global/plugins/leaflet-markercluster/leaflet.markercluster.min.css"/><link rel="stylesheet" href="/Content/assets/global/plugins/leaflet-markercluster/leaflet.markercluster.default.min.css"/><link rel="stylesheet" href="/Content/assets/global/plugins/leaflet-draw/leaflet.draw.css"/><script src="/Content/assets/global/plugins/leaflet/leaflet.js"></script><script src="/Content/assets/global/plugins/leaflet-markercluster/leaflet.markercluster.js"></script><script src="/Content/assets/global/plugins/leaflet-draw/leaflet.draw.js"></script>
+	
+	
+
+	<script>
+		var QuidditaEnvironment = QuidditaEnvironment || {};
+		QuidditaEnvironment.baseUrl = '/';
+		QuidditaEnvironment.domain = 'https://www.halooglasi.com/';
+		QuidditaEnvironment.clientCulture = '.sr-Latn-RS';
+		QuidditaEnvironment.region = 'RS'; //TODO: Replace with this: ;'RS';
+		// QuidditaEnvironment.debuggingEnabled =false
+		QuidditaEnvironment.appVersion = '1.1.2212.1.j';
+		QuidditaEnvironment.imageRootUrl = 'https://img.halooglasi.com';
+		QuidditaEnvironment.isLocalStorageAvailable = false;
+		QuidditaEnvironment.showLocalStorageNotAvailableMessage = function () {
+			$MessageDisplay.showInlineMessage(SR.global.PleaseEnableCookies, { theme: 'tangerine', life: 10000, sticky: false });
+		};
+
+		QuidditaEnvironment.isFbOrInstagramBuiltInBrowser = function () {
+			var ua = navigator.userAgent || navigator.vendor || window.opera;
+			return ua.indexOf("FBAN") > -1 || ua.indexOf("FBAV") > -1 || ua.indexOf("Instagram") > -1;
+		};
+
+		QuidditaEnvironment.getURLParameter = function (paramName) {
+			var searchString = window.location.search.substring(1),
+				i, val, params = searchString.split("&");
+
+			for (i = 0; i < params.length; i++) {
+				val = params[i].split("=");
+				if (val[0] == paramName) {
+					return unescape(val[1]);
+				}
+			}
+
+			return null;
+		};
+	</script>
+
+	
+	<script id="garsHitGemius" async="async" defer="defer" src="https://gars.hit.gemius.pl/xgemius.js"></script>
+	<script id="garsCountView">
+		function gemius_pending(i) { window[i] = window[i] || function () { var x = window[i + '_pdata'] = window[i + '_pdata'] || []; x[x.length] = arguments; }; };
+		gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+		(function (d, t) {
+			try {
+				var gt = d.createElement(t), s = d.getElementsByTagName(t)[0], l = 'http' + ((location.protocol == 'https:') ? 's' : ''); gt.setAttribute('async', 'async');
+				gt.setAttribute('defer', 'defer'); gt.src = l + '://gars.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt, s);
+			} catch (e) { }
+		})(document, 'script');
+	</script>
+
+	<script src="https://rs.adocean.pl/files/js/ado.js"></script>
+	<script>
+		(function (i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga'); ga('create', 'UA-4090358-9', 'auto'); ga('send', 'pageview');
+
+		var pp_gemius_identifier = '1_2Q__ue49c_d1c1_iYhXpe.Xmbsgjuqh880.mWShF..r7';
+		var pp_gemius_identifier_ajax = 'ndo7_PO.VAsU1lQYPjEvC6dzT.PsRFB17X_FSpgqe7r.O7';
+		var pp_adocean_identifier = '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7';
+
+		var topCategoryCode = 'market';
+		if (topCategoryCode == 'nekretnine') {
+			pp_gemius_identifier = '.Xbg6_LAIwp.X1i7Gkh_lKe0HbbsRoc_qnFh.tgRiGT.A7';
+			pp_gemius_identifier_ajax = 'pyY7_XtYVAu4WRqVwU3649U7.q4ZVnr8ctjHz74JSCj.q7';
+			pp_adocean_identifier ='1URQE3CI57jpjLcH4hi.j4b8DqCQTNsUJ8soA3gbiu3.57';
+		}
+		else if (topCategoryCode == 'vozila-i-delovi') {
+			pp_gemius_identifier = '.XdAS_LAMwuf9UiXuiPmh6e0PzfsRi8E4HMDePuDzXf.87';
+			pp_gemius_identifier_ajax = 'B9A7W2sIVMKOELQDimvPgcbiXfe8fTtKjZWNfk.keEH._7';
+			pp_adocean_identifier = 'pLo8np1z3dEcz4kGPAC8PthoP0CIxu_kxc.RQtXVXwD.v7';
+		}
+		else if (topCategoryCode == 'posao') {
+			pp_gemius_identifier = 'p9Lq73tG.yMT1j_iVcC66.UIfc.pBEdsLxJhnsYgEIv.Z7';
+			pp_gemius_identifier_ajax = '.RCVHeN0CRZEcjs.PoHbAdVpXkEZzztGPF6N4Wu_eKP.s7';
+			pp_adocean_identifier = 'bj7htHZ3rN6HsbyV9YVKHuiho79YtJIJCEH29h6Hp1H.r7';
+		}
+		else if (topCategoryCode == 'market') {
+			pp_gemius_identifier = 'zaeb6WNYZANqPho1v33qcLPpP31_nS_SQhnWbEkbBZT.h7';
+			pp_gemius_identifier_ajax = '.XqVf_ORCc1E1zt.vlJT8dWbXtcZFjs60uyNHrYjUAD.s7';
+			pp_adocean_identifier = '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7';
+		}
+		else {
+			pp_gemius_identifier = 'zC41LPB__R0J.ry2K0T4DpbfDovschtst9RKriVJ4Hr.o7';
+		}
+
+		function refreshGemius() {
+			if (pp_gemius_identifier != pp_gemius_identifier_ajax) {
+				pp_gemius_identifier = pp_gemius_identifier_ajax;
+				//$('head').append($('script#garsCountView').clone());
+			}
+			//$('head').append($('script#garsHitGemius').clone());
+			if (typeof gemius_hit == 'function')
+				gemius_hit(pp_gemius_identifier);
+		}
+
+		/* (c)AdOcean 2003-2015 */
+		if (typeof ado !== "object") { ado = {}; ado.config = ado.preview = ado.placement = ado.master = ado.slave = function () { }; }
+		var useAdoRefresh = false;
+
+		var old = ['AdviceList', 'ArticleList', 'BasicAdList', 'InvestorProjectList',
+			'NewConstructionAdsInCategory', 'InverstorAds', 'InverstorAdsInCategory', 'UserAds', 'UserAdsInCategory'];
+
+		if (old.indexOf('BasicAdDetails') > -1) {
+			useAdoRefresh = true;
+			ado.config({ mode: "new", xml: false, characterEncoding: true, contextPatterns: { "domain": "rs.adocean.pl", "fileID": "mpfkgjylbiimmqnrwpznhaobdmlf", "caseInsensitive": true, "sentPatternsLimit": 100 } });
+		}
+		else {
+			ado.config({ mode: "old", xml: false, characterEncoding: true });
+		}
+		ado.preview({ enabled: true, emiter: "rs.adocean.pl", id: "WrI3gCReJvUOQoGs1cYCXGDNLReHYebXQ5l1IsHag6T.57" });
+
+
+		/*** BEGIN: Nasty hacks to make banners work with all the old website settings. ***/
+		var ids = '37.523.1052.'.split('.');
+		var kws = [];
+		for (var i = 1; i < Math.min(2, ids.length) + 1; i++) {
+			if (i == 1 && ids[i])
+				kws.push('kategorija=' + ids[i]);
+			else if (i == 2 && ids[i]) {
+				kws.push('podkategorija=' + ids[i]);
+				kws.push('potkategorija=' + ids[i]);
+			}
+		}
+		var parts = window.location.pathname.split('/');
+		if (parts instanceof Array) {
+			for (var i = 1; i < Math.min(2, parts.length) + 1; i++) {
+				if (parts[i])
+					kws.push(parts[i]);
+			}
+		}
+		/*** END: Nasty hacks to make banners work with all the old website settings. ***/
+
+		/* (c)AdOcean 2003-2015, MASTER: halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike */
+		ado.master({ id: pp_adocean_identifier, server: 'rs.adocean.pl', keys: kws });
+	</script>
+
+	<!-- Google Tag Manager -->
+	<script id="gtmCountView">
+		var isAuth = false;
+		var dataLayer = [{event:'HOEvent', visitorStatus:isAuth ?'prijavljen':'neprijavljen'}];
+		if (isAuth)
+			dataLayer[0].visitorID = '';
+
+		(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-KQ5GJ3X');
+
+		QuidditaEnvironment.pushDataLayerEvent = function (event, eventCategory, eventLabel, eventAction) {
+			if (dataLayer != null) {
+				dataLayer.push({
+					'event': event,
+					'eventCategory': eventCategory,
+					'eventLabel': eventLabel,
+					'eventAction': eventAction
+				});
+			}
+		};
+	</script>
+	<!--/ End Google Tag Manager -->
+	<!-- Yandex.Metrika counter -->
+	<script type="text/javascript">
+		(function (d, w, c) {
+			(w[c] = w[c] || []).push(function () {
+				try {
+					w.yaCounter43953759 = new Ya.Metrika({
+						id: 43953759,
+						clickmap: true,
+						trackLinks: true,
+						accurateTrackBounce: true,
+						webvisor: true
+					});
+				} catch (e) { }
+			});
+
+			var n = d.getElementsByTagName("script")[0],
+				s = d.createElement("script"),
+				f = function () { n.parentNode.insertBefore(s, n); };
+			s.type = "text/javascript";
+			s.async = true;
+			s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+			if (w.opera == "[object Opera]") {
+				d.addEventListener("DOMContentLoaded", f, false);
+			} else { f(); }
+		})(document, window, "yandex_metrika_callbacks");
+	</script>
+	<noscript><div><img src="https://mc.yandex.ru/watch/43953759" style="position:absolute; left:-9999px;" alt="Yandex" /></div></noscript>
+	<!-- /Yandex.Metrika counter -->
+
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Organization",
+			"name": "Halo Oglasi",
+			"url": "https://www.halooglasi.com/",
+			"logo": "https://www.halooglasi.com/Content/assets/frontend/layout/img/logo-halooglasi.png",
+			"contactPoint": {
+				"@type": "ContactPoint",
+				"contactType": "Customer Service",
+				"url": "https://www.halooglasi.com/kontakt-i-radno-vreme"
+			},
+			"sameAs": [
+				"https://www.facebook.com/Halooglasi",
+				"https://www.instagram.com/halooglasi/",
+				"https://twitter.com/Halooglasicom",
+				"https://www.linkedin.com/company/halo-oglasi-d-o-o-/",
+				"https://www.youtube.com/user/halooglasicom"
+			]
+		}
+	</script>
+</head>
+<body class="ecommerce cpc-BasicAdDetails market sport-i-rekreacija-ostala-sportska-oprema market market branding qdesktop-device" data-page-category-id="1052" data-page-category-hierarchy-id="37.523.1052." data-server="Website238">
+	<!--[if lte IE 9]>
+		<p class="browserupgrade">Koristite <strong>zastareli</strong> pretraživač. Molimo Vas preuzmite noviji pretraživač (Google Chrome, Firefox, IE 10+) koji podržava najnovije tehnologije.</p>
+	<![endif]-->
+	<div id="fb-root"></div>
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQ5GJ3X" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	</noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<script src="https://apis.google.com/js/platform.js" async defer>{ lang: 'sr' }</script>
+
+
+	<script src="/Scripts/polyfills.min.js?ver=1.1.2212.1.j"></script>
+
+	<script src=/Content/assets/global/plugins/jquery/jquery-1.11.0.min.js></script>
+	<script>
+		(function () {
+			$(document).on("mobileinit", function () {
+				$.mobile.ajaxEnabled = false;
+				$.mobile.autoInitializePage = false;
+				$.mobile.ajaxEnabled = false;
+				$.mobile.pushStateEnabled = false;
+			});
+		})();
+	</script>
+
+	
+	<div class="cookie-policy" style="display: none;">
+		<div class="container cookie-policy-content">
+			<div class="col-md-10 cookie-policy-message">
+				<p class="cookie-policy-text">
+					Halooglasi.com koristi kolačiće (cookies) u cilju pružanja najboljeg korisničkog iskustva i prikazivanja personalizovanog sadržaja kao i za druge funkcionalnosti koje ne bismo mogli da obezbedimo na drugi način. Daljim korišćenjem sajta smatraćemo da ste saglasni sa korišćenjem kolačića. <a class="cookie-policy-text-link" href="/upotreba-i-zastita-podataka#cookies">Saznajte više →</a>
+				</p>
+			</div>
+			<div class="col-md-2 cookie-policy-btn-wrapper">
+				<p class="cookie-policy-btn">U redu</p>
+			</div>
+		</div>
+	</div>
+
+	
+	<div id="androidAppWrapper" style="display: none;">
+		<div class="hide-app"><img src="/Content/assets/frontend/layout/img/halo-oglasi-nek-aplikacija-x.png" alt="X"></div>
+		<div class="app-icon"><img src="/Content/assets/frontend/layout/img/halo-oglasi-nek-aplikacija-icon.png" alt="HaloOglasi"></div>
+		<div class="app-content">
+			<div class="app-subtext">Saznajte prvi za novu nekretninu u ponudi!<br />Preuzmite<br />Halo oglasi nekretnine<br />Android aplikaciju!</div>
+			<div class="install-app"><a href="https://play.google.com/store/apps/details?id=com.halooglasi" target="_blank"><img src="/Content/assets/frontend/layout/img/halo-oglasi-nek-aplikacija-install.png" alt="Instaliraj" /></a></div>
+			<div class="clear"></div>
+		</div>
+	</div>
+
+	<div id="wrapper">
+		
+
+<section class="header-banner" data-zone="header-banner">
+</section>
+
+<div class="clearfix"></div>
+<header class="header" role="heading">
+	<div class="container container-branding" data-zone="header">
+		
+	<div data-widget-template-id="68" class="widget-banner-zone ref-p3 widget-banner-branding-left-zone AdHere banner-branding-left">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:520px;"><aside><!-- start slave --><div id="adoceanrsnkkqnwljtn"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.Brendiranje sajta  Levo  520x1080 */ado.slave('adoceanrsnkkqnwljtn', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="69" class="widget-banner-zone ref-p3 widget-banner-branding-right-zone AdHere banner-branding-right">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:520px;"><aside><!-- start slave --><div id="adoceanrsklrgbufozi"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.Brendiranje sajta  Desno  520x1080 */ado.slave('adoceanrsklrgbufozi', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="63" class="widget-banner-zone ref-p1 widget-banner-zone-s1 AdHere banner-s1-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:970px;"><aside><!-- start slave --><div id="adoceanrsoammnulpmy"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.S1  970x250 */ado.slave('adoceanrsoammnulpmy', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="2704" class="widget-main-header-page widget-main-header main-header">
+		
+
+
+<div class="container">
+	<section class="row main-header-box  ">
+		<div class="col-lg-7 col-md-7 col-sm-4 col-xs-5">
+			<div class="left-header-menu">
+				<span class="header-icon"></span>
+				
+
+
+<div class="left-box-menu">
+	<div class="portal-links hidden-lg hidden-md">
+		<ul>
+			
+			<li class="real-estate-header-item"><a href="/nekretnine">Pretraga</a></li>
+			<li class="real-estate-header-item"><a href="/nekretnine/novogradnja/projekti">Novogradnja</a></li>
+			<li class="real-estate-header-item"><a href="/uporedne-cene-nekretnina">Cene po lokacijama</a></li>
+			<li class="real-estate-header-item"><a href="/vesti/nekretnine/stambeni-prostor/sve-vesti">Vesti</a></li>
+
+			
+			<li class="real-estate-abroad-header-item"><a href="/nekretnine/inostranstvo">Pretraga</a></li>
+			<li class="real-estate-abroad-header-item"><a href="/vesti/nekretnine/inostranstvo/sve-vesti">Vesti i zanimljivosti</a></li>
+
+			
+			<li class="jobs-header-item"><a href="/posao">Poslovi</a></li>
+			<li class="jobs-header-item"><a href="/vesti/posao/sve-vesti">Vesti i saveti</a></li>
+			<li class="jobs-header-item"><a href="/posao/cesta-pitanja">Česta pitanja</a></li>
+
+			
+			<li class="vehicles-header-item"><a href="/vozila">Vozila</a></li>
+			<li class="vehicles-header-item"><a href="/polovni-delovi">Delovi i oprema</a></li>
+			<li class="vehicles-header-item"><a href="/vozila/servisi-i-usluge">Servisi i usluge</a></li>
+			<li class="vehicles-header-item"><a href="/vesti/vozila/sve-vesti">Vesti i saveti</a></li>
+		</ul>
+	</div>
+
+		<div class="category-links ">
+			<ul>
+					<li data-category-id="1"><a href="/nekretnine" data-category-id="1"><i></i>Nekretnine</a></li>
+					<li data-category-id="35"><a href="/posao" data-category-id="35"><i></i>Posao</a></li>
+					<li data-category-id="517"><a href="/usluge" data-category-id="517"><i></i>Usluge</a></li>
+					<li data-category-id="530"><a href="/antikviteti-i-kolekcionarstvo" data-category-id="530"><i></i>Antikviteti i kolekcionarstvo</a></li>
+					<li data-category-id="535"><a href="/audio-tv-foto" data-category-id="535"><i></i>Audio, TV, foto</a></li>
+					<li data-category-id="1733"><a href="/gradjevinarstvo" data-category-id="1733"><i></i>Građevinarstvo</a></li>
+					<li data-category-id="531"><a href="/knjige" data-category-id="531"><i></i>Knjige</a></li>
+					<li data-category-id="534"><a href="/kucni-aparati" data-category-id="534"><i></i>Kućni aparati</a></li>
+					<li data-category-id="520"><a href="/kucni-ljubimci" data-category-id="520"><i></i>Kućni ljubimci</a></li>
+					<li data-category-id="527"><a href="/licni-kontakti" data-category-id="527"><i></i>Lični kontakti</a></li>
+					<li data-category-id="1170"><a href="/masine-alati-oprema" data-category-id="1170"><i></i>Mašine, alati, oprema</a></li>
+					<li data-category-id="1171"><a href="/muzika-i-instrumenti" data-category-id="1171"><i></i>Muzika i instrumenti</a></li>
+					<li data-category-id="515"><a href="/namestaj-i-pokucstvo" data-category-id="515"><i></i>Nameštaj i pokućstvo</a></li>
+					<li data-category-id="525"><a href="/nega-lica-i-tela" data-category-id="525"><i></i>Nega lica i tela</a></li>
+					<li data-category-id="526"><a href="/odeca-i-obuca" data-category-id="526"><i></i>Odeća, obuća, dodaci</a></li>
+					<li data-category-id="539"><a href="/odmor" data-category-id="539"><i></i>Odmor</a></li>
+					<li data-category-id="518"><a href="/poljoprivreda" data-category-id="518"><i></i>Poljoprivreda</a></li>
+					<li data-category-id="532"><a href="/racunari" data-category-id="532"><i></i>Računari</a></li>
+					<li data-category-id="523"><a href="/sport-i-rekreacija" data-category-id="523"><i></i>Sport i rekreacija</a></li>
+					<li data-category-id="524"><a href="/sve-za-decu" data-category-id="524"><i></i>Sve za decu</a></li>
+					<li data-category-id="533"><a href="/telefoni" data-category-id="533"><i></i>Telefoni</a></li>
+					<li data-category-id="34"><a href="/vozila" data-category-id="34"><i></i>Vozila i delovi</a></li>
+					<li data-category-id="528"><a href="/zdravstvo" data-category-id="528"><i></i>Zdravstvo</a></li>
+			</ul>
+		</div>
+
+	<div class="home-link left-menu-spacer">
+		<a href="/"><i></i>Naslovna Halo oglasi</a>
+	</div>
+	<div class="other-links left-menu-spacer hidden-lg hidden-md">
+		<a class="set-product-btn" href="/postavite-oglas" target="_blank"><i></i>Predaj oglas</a>
+		<ul>
+			<li><a href="/oglasavanje">Cenovnik oglašavanja</a></li>
+			<li><a href="/kontakt-i-radno-vreme">Kontakt i radno vreme</a></li>
+			<li><a href="/pravila-i-uslovi">Uslovi korišćenja</a></li>
+			<li class="hidden-list-item"><a href="/saveti-za-bezbednu-trgovinu">Saveti za bezbednu trgovinu</a></li>
+			<li><a href="/upotreba-i-zastita-podataka">Upotreba i zaštita podataka</a></li>
+			<li><a href="/o-nama">O nama</a></li>
+		</ul>
+	</div>
+</div>
+
+			</div>
+			<div class="logotip"><a href="/"><i class="logos sprite-logo-middle hidden-xs">Halo Oglasi</i><i class="logos sprite-logo-small hidden-lg hidden-md hidden-sm">Halo Oglasi</i></a></div>
+			<div class="real-estates-logotip"><a href="/nekretnine"><i class="logos sprite-logo-real-estates-small">Halo Oglasi Nekretnine</i></a></div>
+			<div class="jobs-logotip"><a href="/posao"><i class="logos sprite-logo-jobs-small">Halo Oglasi Posao</i></a></div>
+			<div class="vehicles-logotip"><a href="/vozila"><i class="logos sprite-logo-vehicles-small">Halo Oglasi Vozila i Delovi</i></a></div>
+			<div class="hidden-sm hidden-xs desktop-search-wrapper">
+				
+<div id="form-search" name="form-search" data-default-url="/sport-i-rekreacija/ostala-sportska-oprema">
+	<div class="typeahead-container layout2">
+		<div class="typeahead-field">
+			<span class="typeahead-query">
+				<input id="search-query" name="search_text" type="search" placeholder="Šta tražite?" autocomplete="off">
+			</span>
+			<span class="typeahead-button">
+				<button type="button" class="direct-search">
+					<i class="search-icon"></i>
+				</button>
+			</span>
+		</div>
+	</div>
+</div>
+
+			</div>
+
+			
+			<div class="header-category-link hidden-sm hidden-xs first-child real-estate-header-item"><a href="/nekretnine">Pretraga</a></div>
+			<div class="header-category-link hidden-sm hidden-xs real-estate-header-item"><a href="/nekretnine/novogradnja/projekti">Novogradnja</a></div>
+			<div class="header-category-link hidden-sm hidden-xs real-estate-header-item"><a href="/uporedne-cene-nekretnina">Cene po lokacijama</a></div>
+			<div class="header-category-link hidden-sm hidden-xs real-estate-header-item"><a href="/vesti/nekretnine/stambeni-prostor/sve-vesti">Vesti</a></div>
+
+			
+			<div class="header-category-link hidden-sm hidden-xs first-child real-estate-abroad-header-item"><a href="/nekretnine/inostranstvo">Pretraga</a></div>
+			<div class="header-category-link hidden-sm hidden-xs real-estate-abroad-header-item"><a href="/vesti/nekretnine/inostranstvo/sve-vesti">Vesti i zanimljivosti</a></div>
+
+			
+			<div class="header-category-link hidden-sm hidden-xs first-child jobs-header-item"><a href="/posao">Poslovi</a></div>
+			<div class="header-category-link hidden-sm hidden-xs jobs-header-item"><a href="/vesti/posao/sve-vesti">Vesti i saveti</a></div>
+			<div class="header-category-link hidden-sm hidden-xs jobs-header-item"><a href="/posao/cesta-pitanja">Česta pitanja</a></div>
+
+			
+			<div class="header-category-link hidden-sm hidden-xs first-child vehicles-header-item"><a href="/vozila">Vozila</a></div>
+			<div class="header-category-link hidden-sm hidden-xs vehicles-header-item"><a href="/polovni-delovi">Delovi i oprema</a></div>
+			<div class="header-category-link hidden-sm hidden-xs vehicles-header-item"><a href="/vozila/servisi-i-usluge">Servisi i usluge</a></div>
+			<div class="header-category-link hidden-sm hidden-xs vehicles-header-item"><a href="/vesti/vozila/sve-vesti">Vesti i saveti</a></div>
+
+			<div class="clear"></div>
+		</div>
+		<div class="col-lg-5 col-md-5 col-sm-8 col-xs-7">
+			<div class="header-category-link set-product-btn-wrapper">
+				<a href="/postavite-oglas" target="_blank"><i></i>Predaj oglas</a>
+			</div>
+			<div class="header-category-link favorite-products-wrapper">
+				<a href="/profil/omiljeni"><i></i>Izabrani</a>
+				<div class="top-cart-content-wrapper">
+					<div class="top-cart-content">
+						<div class="scroller" style="overflow-y: auto; overflow-x: hidden; width: auto; height: auto; max-height:250px;">
+							<div class="inner-empty">
+								<div class="my-search">
+									Moji izabrani oglasi
+								</div>
+								<div class="no-saved-search">
+									Nemate izabranih oglasa.
+								</div>
+								<p class="text-description">
+									U pretrazi sajta možete željene oglase označiti kao izabrane i tako ih kasnije lakše pronaći.
+									<a href="/info#favourites">Želim da saznam više.</a>
+								</p>
+							</div>
+							<ul></ul>
+						</div>
+						<div class="text-right">
+							<a href="/profil/omiljeni" class="btn btn-primary">Izabrani oglasi</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="header-category-link login-btn-wrapper">
+				<a href="/prijava?returnUrl=%2fsport-i-rekreacija%2fostala-sportska-oprema%2fkarting%2f5425635280408"><i></i>Uloguj se</a>
+			</div>
+			<div class="header-category-link logged-in-wrapper">
+				<a href="javascript:void(0);">
+					<i class="logged-in-icon"></i>
+					<div>
+						<p class="header-label">Moj profil</p>
+						<p class="header-user-name hidden-xs"></p>
+					</div>
+				</a>
+				
+
+
+<div class="user-box-menu">
+	<div class="user-data">
+		<p class="user-display-name"></p>
+		<p class="user-email"><span class="user-data-label">email: </span></p>
+		<p class="user-username"><span class="user-data-label">korisničko ime: </span></p>
+	</div>
+	<div class="user-menu-list-wrapper">
+		<ul>
+			<li><a href="/profil/moji-oglasi"><i class="my-products"></i>Moji oglasi</a></li>
+			<li><a href="/profil/pretrage"><i class="my-searches"></i>Sačuvane pretrage <span class="my-searches-number">()</span></a></li>
+			<li><a href="/profil/omiljeni"><i class="my-favorite-products"></i>Izabrani oglasi <span class="my-favorite-products-number">()</span></a></li>
+			<li><a href="/profil/poruke"><i class="my-messages"></i>Prepiske</a></li>
+			<li class="user-menu-spacer"><a href="/profil/moj-racun"><i class="my-account"></i>Račun i dopuna računa</a></li>
+			<div class="user-menu-spacer" style='display:none;'>
+				<li style='display:none;'><a href="/profil/poslate-prijave"><i class="my-job-applications"></i>Poslovi na koje ste konkurisali</a></li>
+				<li style='display:none;'><a href="/profil/cv"><i class="my-cv-list"></i>Moji CV-jevi</a></li>
+				<li style='display:none;'><a href="/profil/primljene-prijave"><i class="my-received-jobs"></i>Primljene prijave</a></li>
+			</div>
+			<li><a href="/profil/moji-podaci"><i class="my-profile-data"></i>Osnovni podaci naloga</a></li>
+			<li><a href="/profil/kontakt-podaci"><i class="my-contact-data"></i>Dodatni podaci</a></li>
+			<li class="user-menu-spacer"><a href="/profil/podesavanja"><i class="my-settings"></i>Podešavanje</a></li>
+			<li><a class="user-logout-link" href="javascript:void(0);" data-ajax="/Quiddita.Widgets.Common/LoginPageWidget/LogOut"><i class="user-logout"></i>Izloguj se</a></li>
+		</ul>
+	</div>
+</div>
+
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div id="leftMenuModal" class="modal left fade" tabindex="-1" role="dialog">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-body">
+						
+
+
+<div class="left-box-menu">
+	<div class="portal-links hidden-lg hidden-md">
+		<ul>
+			
+			<li class="real-estate-header-item"><a href="/nekretnine">Pretraga</a></li>
+			<li class="real-estate-header-item"><a href="/nekretnine/novogradnja/projekti">Novogradnja</a></li>
+			<li class="real-estate-header-item"><a href="/uporedne-cene-nekretnina">Cene po lokacijama</a></li>
+			<li class="real-estate-header-item"><a href="/vesti/nekretnine/stambeni-prostor/sve-vesti">Vesti</a></li>
+
+			
+			<li class="real-estate-abroad-header-item"><a href="/nekretnine/inostranstvo">Pretraga</a></li>
+			<li class="real-estate-abroad-header-item"><a href="/vesti/nekretnine/inostranstvo/sve-vesti">Vesti i zanimljivosti</a></li>
+
+			
+			<li class="jobs-header-item"><a href="/posao">Poslovi</a></li>
+			<li class="jobs-header-item"><a href="/vesti/posao/sve-vesti">Vesti i saveti</a></li>
+			<li class="jobs-header-item"><a href="/posao/cesta-pitanja">Česta pitanja</a></li>
+
+			
+			<li class="vehicles-header-item"><a href="/vozila">Vozila</a></li>
+			<li class="vehicles-header-item"><a href="/polovni-delovi">Delovi i oprema</a></li>
+			<li class="vehicles-header-item"><a href="/vozila/servisi-i-usluge">Servisi i usluge</a></li>
+			<li class="vehicles-header-item"><a href="/vesti/vozila/sve-vesti">Vesti i saveti</a></li>
+		</ul>
+	</div>
+
+		<div class="category-links ">
+			<ul>
+					<li data-category-id="1"><a href="/nekretnine" data-category-id="1"><i></i>Nekretnine</a></li>
+					<li data-category-id="35"><a href="/posao" data-category-id="35"><i></i>Posao</a></li>
+					<li data-category-id="517"><a href="/usluge" data-category-id="517"><i></i>Usluge</a></li>
+					<li data-category-id="530"><a href="/antikviteti-i-kolekcionarstvo" data-category-id="530"><i></i>Antikviteti i kolekcionarstvo</a></li>
+					<li data-category-id="535"><a href="/audio-tv-foto" data-category-id="535"><i></i>Audio, TV, foto</a></li>
+					<li data-category-id="1733"><a href="/gradjevinarstvo" data-category-id="1733"><i></i>Građevinarstvo</a></li>
+					<li data-category-id="531"><a href="/knjige" data-category-id="531"><i></i>Knjige</a></li>
+					<li data-category-id="534"><a href="/kucni-aparati" data-category-id="534"><i></i>Kućni aparati</a></li>
+					<li data-category-id="520"><a href="/kucni-ljubimci" data-category-id="520"><i></i>Kućni ljubimci</a></li>
+					<li data-category-id="527"><a href="/licni-kontakti" data-category-id="527"><i></i>Lični kontakti</a></li>
+					<li data-category-id="1170"><a href="/masine-alati-oprema" data-category-id="1170"><i></i>Mašine, alati, oprema</a></li>
+					<li data-category-id="1171"><a href="/muzika-i-instrumenti" data-category-id="1171"><i></i>Muzika i instrumenti</a></li>
+					<li data-category-id="515"><a href="/namestaj-i-pokucstvo" data-category-id="515"><i></i>Nameštaj i pokućstvo</a></li>
+					<li data-category-id="525"><a href="/nega-lica-i-tela" data-category-id="525"><i></i>Nega lica i tela</a></li>
+					<li data-category-id="526"><a href="/odeca-i-obuca" data-category-id="526"><i></i>Odeća, obuća, dodaci</a></li>
+					<li data-category-id="539"><a href="/odmor" data-category-id="539"><i></i>Odmor</a></li>
+					<li data-category-id="518"><a href="/poljoprivreda" data-category-id="518"><i></i>Poljoprivreda</a></li>
+					<li data-category-id="532"><a href="/racunari" data-category-id="532"><i></i>Računari</a></li>
+					<li data-category-id="523"><a href="/sport-i-rekreacija" data-category-id="523"><i></i>Sport i rekreacija</a></li>
+					<li data-category-id="524"><a href="/sve-za-decu" data-category-id="524"><i></i>Sve za decu</a></li>
+					<li data-category-id="533"><a href="/telefoni" data-category-id="533"><i></i>Telefoni</a></li>
+					<li data-category-id="34"><a href="/vozila" data-category-id="34"><i></i>Vozila i delovi</a></li>
+					<li data-category-id="528"><a href="/zdravstvo" data-category-id="528"><i></i>Zdravstvo</a></li>
+			</ul>
+		</div>
+
+	<div class="home-link left-menu-spacer">
+		<a href="/"><i></i>Naslovna Halo oglasi</a>
+	</div>
+	<div class="other-links left-menu-spacer hidden-lg hidden-md">
+		<a class="set-product-btn" href="/postavite-oglas" target="_blank"><i></i>Predaj oglas</a>
+		<ul>
+			<li><a href="/oglasavanje">Cenovnik oglašavanja</a></li>
+			<li><a href="/kontakt-i-radno-vreme">Kontakt i radno vreme</a></li>
+			<li><a href="/pravila-i-uslovi">Uslovi korišćenja</a></li>
+			<li class="hidden-list-item"><a href="/saveti-za-bezbednu-trgovinu">Saveti za bezbednu trgovinu</a></li>
+			<li><a href="/upotreba-i-zastita-podataka">Upotreba i zaštita podataka</a></li>
+			<li><a href="/o-nama">O nama</a></li>
+		</ul>
+	</div>
+</div>
+
+					</div>
+				</div> <!-- modal-content -->
+			</div> <!-- modal-dialog -->
+		</div> <!-- modal -->
+		<div id="userBoxModal" class="modal right fade" tabindex="-1" role="dialog">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-body">
+						
+
+
+<div class="user-box-menu">
+	<div class="user-data">
+		<p class="user-display-name"></p>
+		<p class="user-email"><span class="user-data-label">email: </span></p>
+		<p class="user-username"><span class="user-data-label">korisničko ime: </span></p>
+	</div>
+	<div class="user-menu-list-wrapper">
+		<ul>
+			<li><a href="/profil/moji-oglasi"><i class="my-products"></i>Moji oglasi</a></li>
+			<li><a href="/profil/pretrage"><i class="my-searches"></i>Sačuvane pretrage <span class="my-searches-number">()</span></a></li>
+			<li><a href="/profil/omiljeni"><i class="my-favorite-products"></i>Izabrani oglasi <span class="my-favorite-products-number">()</span></a></li>
+			<li><a href="/profil/poruke"><i class="my-messages"></i>Prepiske</a></li>
+			<li class="user-menu-spacer"><a href="/profil/moj-racun"><i class="my-account"></i>Račun i dopuna računa</a></li>
+			<div class="user-menu-spacer" style='display:none;'>
+				<li style='display:none;'><a href="/profil/poslate-prijave"><i class="my-job-applications"></i>Poslovi na koje ste konkurisali</a></li>
+				<li style='display:none;'><a href="/profil/cv"><i class="my-cv-list"></i>Moji CV-jevi</a></li>
+				<li style='display:none;'><a href="/profil/primljene-prijave"><i class="my-received-jobs"></i>Primljene prijave</a></li>
+			</div>
+			<li><a href="/profil/moji-podaci"><i class="my-profile-data"></i>Osnovni podaci naloga</a></li>
+			<li><a href="/profil/kontakt-podaci"><i class="my-contact-data"></i>Dodatni podaci</a></li>
+			<li class="user-menu-spacer"><a href="/profil/podesavanja"><i class="my-settings"></i>Podešavanje</a></li>
+			<li><a class="user-logout-link" href="javascript:void(0);" data-ajax="/Quiddita.Widgets.Common/LoginPageWidget/LogOut"><i class="user-logout"></i>Izloguj se</a></li>
+		</ul>
+	</div>
+</div>
+
+					</div>
+				</div> <!-- modal-content -->
+			</div> <!-- modal-dialog -->
+		</div> <!-- modal -->
+		<div class="backdrop-bkg header-backdrop"></div>
+	</section>
+
+	<div class="hidden-lg hidden-md mobile-search-wrapper">
+		
+<div id="form-search" name="form-search" data-default-url="/sport-i-rekreacija/ostala-sportska-oprema">
+	<div class="typeahead-container layout2">
+		<div class="typeahead-field">
+			<span class="typeahead-query">
+				<input id="search-query" name="search_text" type="search" placeholder="Šta tražite?" autocomplete="off">
+			</span>
+			<span class="typeahead-button">
+				<button type="button" class="direct-search">
+					<i class="search-icon"></i>
+				</button>
+			</span>
+		</div>
+	</div>
+</div>
+
+	</div>
+</div>
+
+<script>
+	window.isUserAuthenticated = false;
+	window.authenticatedUserId = '';
+	window.sessionToken = '2813327';
+	if (window.trackJs != undefined && trackJs)
+		trackJs.configure({ userId: window.authenticatedUserId, sessionId: window.sessionToken });
+
+	window.QuidditaEnvironment.FavoriteAdIds = "''";
+
+	if ($('body').hasClass('qmobile-device'))
+		$('.desktop-search-wrapper').remove();
+	else
+		$('.mobile-search-wrapper').remove();
+
+	QuidditaEnvironment.DisplayCategories = '[{"Id":1052,"IsMainCategory":false,"Name":"Ostala sportska oprema","Url":"/sport-i-rekreacija/ostala-sportska-oprema"},{"Id":523,"IsMainCategory":false,"Name":"Sport i rekreacija","Url":"/sport-i-rekreacija"},{"Id":1,"IsMainCategory":true,"Name":"Nekretnine","Url":"/nekretnine/pretraga"},{"Id":34,"IsMainCategory":true,"Name":"Vozila i delovi","Url":"/vozila/pretraga"},{"Id":35,"IsMainCategory":true,"Name":"Posao","Url":"/posao-pretraga"},{"Id":530,"IsMainCategory":true,"Name":"Antikviteti i kolekcionarstvo","Url":"/antikviteti-i-kolekcionarstvo"},{"Id":535,"IsMainCategory":true,"Name":"Audio, TV, foto","Url":"/audio-tv-foto"},{"Id":1733,"IsMainCategory":true,"Name":"Građevinarstvo","Url":"/gradjevinarstvo"},{"Id":531,"IsMainCategory":true,"Name":"Knjige","Url":"/knjige"},{"Id":534,"IsMainCategory":true,"Name":"Kućni aparati","Url":"/kucni-aparati"},{"Id":520,"IsMainCategory":true,"Name":"Kućni ljubimci","Url":"/kucni-ljubimci"},{"Id":527,"IsMainCategory":true,"Name":"Lični kontakti","Url":"/licni-kontakti"},{"Id":1170,"IsMainCategory":true,"Name":"Mašine, alati, oprema","Url":"/masine-alati-oprema"},{"Id":1171,"IsMainCategory":true,"Name":"Muzika i instrumenti","Url":"/muzika-i-instrumenti"},{"Id":515,"IsMainCategory":true,"Name":"Nameštaj i pokućstvo","Url":"/namestaj-i-pokucstvo"},{"Id":525,"IsMainCategory":true,"Name":"Nega lica i tela","Url":"/nega-lica-i-tela"},{"Id":526,"IsMainCategory":true,"Name":"Odeća, obuća, dodaci","Url":"/odeca-i-obuca"},{"Id":539,"IsMainCategory":true,"Name":"Odmor","Url":"/odmor"},{"Id":518,"IsMainCategory":true,"Name":"Poljoprivreda","Url":"/poljoprivreda"},{"Id":532,"IsMainCategory":true,"Name":"Računari","Url":"/racunari"},{"Id":524,"IsMainCategory":true,"Name":"Sve za decu","Url":"/sve-za-decu"},{"Id":533,"IsMainCategory":true,"Name":"Telefoni","Url":"/telefoni"},{"Id":517,"IsMainCategory":true,"Name":"Usluge","Url":"/usluge/pretraga"},{"Id":528,"IsMainCategory":true,"Name":"Zdravstvo","Url":"/zdravstvo"}]';
+</script>
+
+<script id="tplFavoriteAdItemTemplate" type="text/x-handlebars-template">
+	{{#each this}}
+	<li data-id="{{this.Id}}">
+		<a href="{{this.Url}}" class="fav-product-img"><img src="{{this.ImageUrl}}" alt="" width="37" height="34"></a>
+		<span class="fav-product-title"><strong><a href="{{this.Url}}">{{this.Title}}</a></strong></span>
+		<span class="fav-product-price">{{this.PriceAndCurrencySymbol}}</span>
+		<a href="#" class="del-item prevent"><span class="glyphicon glyphicon-remove remove-extra"></span></a>
+		<div class="clear"></div>
+	</li>
+	{{/each}}
+</script>
+
+
+
+
+	</div>
+
+	</div>
+	<div class="container container-branding" data-zone="post-header">
+		
+
+	</div>
+</header>
+<main class="main" role="main">
+	<div class="container">
+		<div class="pre-content" data-zone="pre-content">
+	<div data-widget-template-id="182" class="widget-breadcrumb widget-breadcrumb widget-server-breadcrumb">
+		
+
+
+
+<ol id="main-breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a itemprop="item" href="/" onclick="breadcrumbClick()"><span itemprop="name">Početna</span></a>&gt;
+		<meta itemprop="position" content="1">
+	</li>
+			<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+				<a itemprop="item" href="/sport-i-rekreacija" onclick="breadcrumbClick()">
+					<span itemprop="name">Sport i rekreacija</span>
+				</a>
+				&gt;
+				<meta itemprop="position" content="2">
+			</li>
+			<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+				<a itemprop="item" href="/sport-i-rekreacija/ostala-sportska-oprema" onclick="breadcrumbClick()">
+					<span itemprop="name">Ostala sportska oprema</span>
+				</a>
+				&gt;
+				<meta itemprop="position" content="3">
+			</li>
+			<li>
+				<a>
+					<span>Karting</span>
+				</a>
+			</li>
+</ol>
+
+<script>
+	function breadcrumbClick() {
+		if (typeof (ga) != "undefined" && ga != null && typeof (ga) == "function")
+			ga('send', 'event', 'ceo_sajt', 'detalji_oglasa', 'breadcrumbs');
+	}
+</script>
+
+
+	</div>
+	<div data-widget-template-id="140" class="widget-operator-panel widget-operator-panel widget-operator-panel">
+		
+
+
+<script>
+	QuidditaEnvironment.CurrentContactData={"PhoneNumber1":"True","PhoneNumber2":null,"City":null,"Address":"","Email":"True","ShowContactPhone":true,"ShowMyAdsPage":true,"ShowContactButton":false,"Advertiser":{"DisplayName":"nenadzr85","IsSchool":false,"IsInvestor":false,"ContactInfos":[]},"Latitudes":[],"Longitudes":[],"InvestorRoute":"nekretnine/novogradnja/nenadzr85/projekti","UserAdsRoute":"oglasi/nenadzr85","AvatarUrl":null,"NumberInRegister":null,"WebAddress":null};QuidditaEnvironment.IsCurrentAdActive=true;
+	QuidditaEnvironment.CurrentClassified={"Id":"5425635280408","AdKindId":"1","IsPromoted":false,"StateId":101,"AdvertiserId":"5526209","Title":"Karting","TextHtml":"<p>Na prodaju karting<br />Ovo je usluzan oglas, za sve informacije obratiti se na sledeći broj telefona - Mića<br />Za ozbiljnog kupca moguca korekcija cene.</p>","Email":"True","ValidFrom":"2022-12-09T02:56:45.487Z","ValidTo":"2023-01-08T02:56:45.487Z","GeoLocationRPT":null,"ImageURLs":["/slike/oglasi/Thumbs/191124/l/karting-5425635280408-71789975214.jpg","/slike/oglasi/Thumbs/191124/l/karting-5425635280408-71789975215.jpg","/slike/oglasi/Thumbs/191124/l/karting-5425635280408-71789975213.jpg"],"ImageTexts":["","",""],"CategoryIds":[37,523,1052],"CategoryNames":["Market","Sport i rekreacija","Ostala sportska oprema"],"AdvertiserLogoUrl":null,"VideoUrl":null,"EnclosureFilePath":null,"DoNotShowContactButton":null,"ContactButtonLink":null,"OtherFields":{"cena_d":1100.0,"grad_s":"Zrenjanin","po_dogovoru_b":false,"stanje_s":"Polovno","grad_id_l":35277,"stanje_id_l":538960,"cena_d_unit_s":"EUR","defaultunit_cena_d":1100.0,"_version_":1751699724818186240},"IsVerificationPending":false,"VerificationStateId":3,"TotalViews":4446,"IsOwnedByCurrentUser":false,"UseIntesaCreditCalculatorF":false,"UseOtpCreditCalculator":false,"UseSberbankCreditCalculator":false,"UseRaiffeisenCreditCalculator":false,"IsInterestingInternal":false,"IsInterestingExternal":false,"IsPremiumOffer":false,"RelativeUrl":"/sport-i-rekreacija/ostala-sportska-oprema/karting/5425635280408?kid=1","HasAutomaticRenewal":true,"ValidToProlonged":null,"ExpiresWithin48Hours":false,"AveragePriceBySurfaceValue":null,"AveragePriceBySurfaceLink":null,"SimilarAds":["<div class=\"col-md-6 col-sm-6 col-xs-12\"><div class=\"product-item product-grid-item Standard market my-product-placeholder\"><figure class=\"pi-img-wrapper\"><a class=\"a-images\" href=\"/sport-i-rekreacija/ostala-sportska-oprema/prodajem-karting/5425636619436?kid=1\"><img src='https://img.halooglasi.com//slike/oglasi/Thumbs/210511/m/prodajem-karting-5425636619436-71795661653.jpg' class=\"\" alt=\"Prodajem karting \" onError=\"this.onerror = null; this.src = &#39;/Content/Quiddita/Widgets/Product/Stylesheets/img/no-image.jpg&#39;\"></a><div class=\"pi-img-count-wrapper\"><span class=\"pi-img-count-icon\"></span><span class=\"pi-img-count-num\">4</span></div><div class=\"wrap-btn-fav\"><div class=\"btn-group btn-group-solid\"><button type=\"button\" class=\"btn btn-circle btn-fav-product-star fav-cmd favorite-product-holder tipso-details tipso_style\" data-id=\"5425636619436\" title=\"Dodaj u izabrane oglase\"></button></div></div><div class=\"product-type\"></div></figure><div class=\"central-feature-wrapper\"><div class=\"central-feature\"><span data-value=\"300\"><i>300&nbsp;€</i></span><div class=\"price-shadow\"><img src=\"/Content/assets/frontend/layout/img/price-shadow.png\" style=\"width:100%; height:10px;\" alt=\"Cena\" /></div></div></div><h3 class=\"product-title\"><a href=\"/sport-i-rekreacija/ostala-sportska-oprema/prodajem-karting/5425636619436?kid=1\">Prodajem karting </a></h3><p class=\"product-description\">Prodajem kompletan karting.</p><div class=\"clear\"></div><div class=\"clear\"></div></div></div>","<div class=\"col-md-6 col-sm-6 col-xs-12\"><div class=\"product-item product-grid-item Standard market my-product-placeholder\"><figure class=\"pi-img-wrapper\"><a class=\"a-images\" href=\"/sport-i-rekreacija/ostala-sportska-oprema/karting-rimo/5425634724604?kid=1\"><img src='https://img.halooglasi.com//slike/oglasi/Thumbs/190611/m/karting-subaru-5425634724604-71788575834.jpg' class=\"\" alt=\"Karting Rimo\" onError=\"this.onerror = null; this.src = &#39;/Content/Quiddita/Widgets/Product/Stylesheets/img/no-image.jpg&#39;\"></a><div class=\"pi-img-count-wrapper\"><span class=\"pi-img-count-icon\"></span><span class=\"pi-img-count-num\">8</span></div><div class=\"wrap-btn-fav\"><div class=\"btn-group btn-group-solid\"><button type=\"button\" class=\"btn btn-circle btn-fav-product-star fav-cmd favorite-product-holder tipso-details tipso_style\" data-id=\"5425634724604\" title=\"Dodaj u izabrane oglase\"></button></div></div><div class=\"product-type\"></div></figure><div class=\"central-feature-wrapper\"><div class=\"central-feature\"><span data-value=\"dogovor\"><i>Dogovor&nbsp;</i></span><div class=\"price-shadow\"><img src=\"/Content/assets/frontend/layout/img/price-shadow.png\" style=\"width:100%; height:10px;\" alt=\"Cena\" /></div></div></div><h3 class=\"product-title\"><a href=\"/sport-i-rekreacija/ostala-sportska-oprema/karting-rimo/5425634724604?kid=1\">Karting Rimo</a></h3><p class=\"product-description\">Prodaje se karting sa subaru motorom i reservnim delovima. Stari su 2 godine. Vozeni na karting stazi u becu. Karting je marke Rimo iz Nemacke. Subaru: Cetvorotaktni Motor ima 200 kubika i 9 ks. Automatski menjac. Imamo 14 komada za prodaju. Cena po komadu je 1000 evra. Ako kupujete vise, cena po...</p><div class=\"clear\"></div><div class=\"clear\"></div></div></div>","<div class=\"col-md-6 col-sm-6 col-xs-12\"><div class=\"product-item product-grid-item Standard market my-product-placeholder\"><figure class=\"pi-img-wrapper\"><a class=\"a-images\" href=\"/sport-i-rekreacija/ostala-sportska-oprema/prodajem-karting-bez-motora/5425636496295?kid=1\"><img src='https://img.halooglasi.com//slike/oglasi/Thumbs/210405/m/prodajem-karting-bez-motora-5425636496295-71795183244.jpg' class=\"\" alt=\"Prodajem karting bez motora\" onError=\"this.onerror = null; this.src = &#39;/Content/Quiddita/Widgets/Product/Stylesheets/img/no-image.jpg&#39;\"></a><div class=\"pi-img-count-wrapper\"><span class=\"pi-img-count-icon\"></span><span class=\"pi-img-count-num\">1</span></div><span class=\"on-map tipso-details tipso_style\" title=\"Oglas ima poziciju na mapi\"></span><div class=\"wrap-btn-fav\"><div class=\"btn-group btn-group-solid\"><button type=\"button\" class=\"btn btn-circle btn-fav-product-star fav-cmd favorite-product-holder tipso-details tipso_style\" data-id=\"5425636496295\" title=\"Dodaj u izabrane oglase\"></button></div></div><div class=\"product-type\"></div></figure><div class=\"central-feature-wrapper\"><div class=\"central-feature\"><span data-value=\"200\"><i>200&nbsp;€</i></span><div class=\"price-shadow\"><img src=\"/Content/assets/frontend/layout/img/price-shadow.png\" style=\"width:100%; height:10px;\" alt=\"Cena\" /></div></div></div><h3 class=\"product-title\"><a href=\"/sport-i-rekreacija/ostala-sportska-oprema/prodajem-karting-bez-motora/5425636496295?kid=1\">Prodajem karting bez motora</a></h3><p class=\"product-description\">Prodajem karting, bez motora, cvene boje...u dobrom je stanju.</p><div class=\"clear\"></div><div class=\"clear\"></div></div></div>","<div class=\"col-md-6 col-sm-6 col-xs-12\"><div class=\"product-item product-grid-item Standard market my-product-placeholder\"><figure class=\"pi-img-wrapper\"><a class=\"a-images\" href=\"/sport-i-rekreacija/ostala-sportska-oprema/aluminijumska-sportska-boca-crvena-0-6l/5425596705365?kid=1\"><img src='https://img.halooglasi.com//slike/oglasi/Thumbs/170616/m/aluminijumska-sportska-boca-crvena-0-6l-5425596705365-71782885563.jpg' class=\"\" alt=\"Aluminijumska sportska boca, crvena 0,6l\" onError=\"this.onerror = null; this.src = &#39;/Content/Quiddita/Widgets/Product/Stylesheets/img/no-image.jpg&#39;\"></a><div class=\"pi-img-count-wrapper\"><span class=\"pi-img-count-icon\"></span><span class=\"pi-img-count-num\">7</span></div><span class=\"on-map tipso-details tipso_style\" title=\"Oglas ima poziciju na mapi\"></span><div class=\"wrap-btn-fav\"><div class=\"btn-group btn-group-solid\"><button type=\"button\" class=\"btn btn-circle btn-fav-product-star fav-cmd favorite-product-holder tipso-details tipso_style\" data-id=\"5425596705365\" title=\"Dodaj u izabrane oglase\"></button></div></div><div class=\"product-type\"></div></figure><div class=\"central-feature-wrapper\"><div class=\"central-feature\"><span data-value=\"399\"><i>399&nbsp;din</i></span><div class=\"price-shadow\"><img src=\"/Content/assets/frontend/layout/img/price-shadow.png\" style=\"width:100%; height:10px;\" alt=\"Cena\" /></div></div></div><h3 class=\"product-title\"><a href=\"/sport-i-rekreacija/ostala-sportska-oprema/aluminijumska-sportska-boca-crvena-0-6l/5425596705365?kid=1\">Aluminijumska sportska boca, crvena 0,6l</a></h3><p class=\"product-description\">Vrlo praktična aluminijumska boca, zapremine 600 ml, crvene boje. Specijalan poklopac u potpunosti sprečava curenje i prosipanje tečnosti. Pogodna je za nošenje svih vrsta napitaka. Dimenzije su 21cm x 7 cm Cena 399 din</p><div class=\"clear\"></div><div class=\"clear\"></div></div></div>","<div class=\"col-md-6 col-sm-6 col-xs-12\"><div class=\"product-item product-grid-item Standard market my-product-placeholder\"><figure class=\"pi-img-wrapper\"><a class=\"a-images\" href=\"/sport-i-rekreacija/ostala-sportska-oprema/pistaljka-fox40-eclipse/3058601?kid=1\"><img src='https://img.halooglasi.com//slike/oglasi/Thumbs/160711/m/pistaljka-fox40-eclipse-3058601-71780548017.jpg' class=\"\" alt=\"Pištaljka Fox40 Eclipse\" onError=\"this.onerror = null; this.src = &#39;/Content/Quiddita/Widgets/Product/Stylesheets/img/no-image.jpg&#39;\"></a><div class=\"pi-img-count-wrapper\"><span class=\"pi-img-count-icon\"></span><span class=\"pi-img-count-num\">5</span></div><div class=\"wrap-btn-fav\"><div class=\"btn-group btn-group-solid\"><button type=\"button\" class=\"btn btn-circle btn-fav-product-star fav-cmd favorite-product-holder tipso-details tipso_style\" data-id=\"3058601\" title=\"Dodaj u izabrane oglase\"></button></div></div><div class=\"product-type\"></div></figure><div class=\"central-feature-wrapper\"><div class=\"central-feature\"><span data-value=\"2.500\"><i>2.500&nbsp;din</i></span><div class=\"price-shadow\"><img src=\"/Content/assets/frontend/layout/img/price-shadow.png\" style=\"width:100%; height:10px;\" alt=\"Cena\" /></div></div></div><h3 class=\"product-title\"><a href=\"/sport-i-rekreacija/ostala-sportska-oprema/pistaljka-fox40-eclipse/3058601?kid=1\">Pištaljka Fox40 Eclipse</a></h3><p class=\"product-description\">Jedinstvena Fox40 Eclipse pistaljka sa FIBA znakom na sebi. Pistaljka koju koriste zvanicne FIBA sudije. Budite jedinstveni. . . Ne nasedajte na jeftine kineske kopije Fox40 Classic kod kojih se skida guma, na originalnim pistaljkama guma mora da bude usecena u pistaljku (pogledaj sliku)! ! !...</p><div class=\"clear\"></div><div class=\"clear\"></div></div></div>","<div class=\"col-md-6 col-sm-6 col-xs-12\"><div class=\"product-item product-grid-item Standard market my-product-placeholder\"><figure class=\"pi-img-wrapper\"><a class=\"a-images\" href=\"/sport-i-rekreacija/ostala-sportska-oprema/pistaljke-fox40-classic-cmg/3596016?kid=1\"><img src='https://img.halooglasi.com//slike/oglasi/Thumbs/160711/m/pistaljke-fox40-classic-cmg-3596016-71780548122.jpg' class=\"\" alt=\"Pistaljke Fox40 Classic CMG\" onError=\"this.onerror = null; this.src = &#39;/Content/Quiddita/Widgets/Product/Stylesheets/img/no-image.jpg&#39;\"></a><div class=\"pi-img-count-wrapper\"><span class=\"pi-img-count-icon\"></span><span class=\"pi-img-count-num\">4</span></div><div class=\"wrap-btn-fav\"><div class=\"btn-group btn-group-solid\"><button type=\"button\" class=\"btn btn-circle btn-fav-product-star fav-cmd favorite-product-holder tipso-details tipso_style\" data-id=\"3596016\" title=\"Dodaj u izabrane oglase\"></button></div></div><div class=\"product-type\"></div></figure><div class=\"central-feature-wrapper\"><div class=\"central-feature\"><span data-value=\"2.000\"><i>2.000&nbsp;din</i></span><div class=\"price-shadow\"><img src=\"/Content/assets/frontend/layout/img/price-shadow.png\" style=\"width:100%; height:10px;\" alt=\"Cena\" /></div></div></div><h3 class=\"product-title\"><a href=\"/sport-i-rekreacija/ostala-sportska-oprema/pistaljke-fox40-classic-cmg/3596016?kid=1\">Pistaljke Fox40 Classic CMG</a></h3><p class=\"product-description\">Jedini u Srbiji prodajem originalne profesionalne sudijske pistaljke Fox40 Classic CMG. Stigle iz Kanade, u originalnom pakovanju kao na slici. Ja ih koristim kao kosarkaski sudija i ne postoje bolja pistaljke po mom misljenju od FOX40 pistaljki. Ne nasedajte na jeftine kineske kopije Fox40 Classic...</p><div class=\"clear\"></div><div class=\"clear\"></div></div></div>","<div class=\"col-md-6 col-sm-6 col-xs-12\"><div class=\"product-item product-grid-item Standard market my-product-placeholder\"><figure class=\"pi-img-wrapper\"><a class=\"a-images\" href=\"/sport-i-rekreacija/ostala-sportska-oprema/originalna-pistaljka-fox40-razne-vrste/3596009?kid=1\"><img src='https://img.halooglasi.com//slike/oglasi/Thumbs/160711/m/originalna-pistaljka-fox40-razne-vrste-3596009-71780548113.jpg' class=\"\" alt=\"Originalna pistaljka FOX40, razne vrste\" onError=\"this.onerror = null; this.src = &#39;/Content/Quiddita/Widgets/Product/Stylesheets/img/no-image.jpg&#39;\"></a><div class=\"pi-img-count-wrapper\"><span class=\"pi-img-count-icon\"></span><span class=\"pi-img-count-num\">7</span></div><div class=\"wrap-btn-fav\"><div class=\"btn-group btn-group-solid\"><button type=\"button\" class=\"btn btn-circle btn-fav-product-star fav-cmd favorite-product-holder tipso-details tipso_style\" data-id=\"3596009\" title=\"Dodaj u izabrane oglase\"></button></div></div><div class=\"product-type\"></div></figure><div class=\"central-feature-wrapper\"><div class=\"central-feature\"><span data-value=\"2.000\"><i>2.000&nbsp;din</i></span><div class=\"price-shadow\"><img src=\"/Content/assets/frontend/layout/img/price-shadow.png\" style=\"width:100%; height:10px;\" alt=\"Cena\" /></div></div></div><h3 class=\"product-title\"><a href=\"/sport-i-rekreacija/ostala-sportska-oprema/originalna-pistaljka-fox40-razne-vrste/3596009?kid=1\">Originalna pistaljka FOX40, razne vrste</a></h3><p class=\"product-description\">Jedini u Srbiji prodajem originalne profesionalne sudijske pistaljke Fox40 raznih vrsta. Stigle iz Kanade, u originalnom pakovanju kao na slikama. Ja ih koristim kao kosarkaski sudija i ne postoje bolja pistaljke po mom misljenju od FOX40 pistaljki. Izaberite vrstu koja Vam najvise odgovara i...</p><div class=\"clear\"></div><div class=\"clear\"></div></div></div>","<div class=\"col-md-6 col-sm-6 col-xs-12\"><div class=\"product-item product-grid-item Standard market my-product-placeholder\"><figure class=\"pi-img-wrapper\"><a class=\"a-images\" href=\"/sport-i-rekreacija/ostala-sportska-oprema/pistaljke-fox40-sonikblast-cmg-sa-vezicom/3058599?kid=1\"><img src='https://img.halooglasi.com//slike/oglasi/Thumbs/160711/m/pistaljke-fox40-sonikblast-cmg-sa-vezicom-3058599-71780548087.jpg' class=\"\" alt=\"Pistaljke Fox40 SonikBlast CMG sa vezicom\" onError=\"this.onerror = null; this.src = &#39;/Content/Quiddita/Widgets/Product/Stylesheets/img/no-image.jpg&#39;\"></a><div class=\"pi-img-count-wrapper\"><span class=\"pi-img-count-icon\"></span><span class=\"pi-img-count-num\">5</span></div><div class=\"wrap-btn-fav\"><div class=\"btn-group btn-group-solid\"><button type=\"button\" class=\"btn btn-circle btn-fav-product-star fav-cmd favorite-product-holder tipso-details tipso_style\" data-id=\"3058599\" title=\"Dodaj u izabrane oglase\"></button></div></div><div class=\"product-type\"></div></figure><div class=\"central-feature-wrapper\"><div class=\"central-feature\"><span data-value=\"2.600\"><i>2.600&nbsp;din</i></span><div class=\"price-shadow\"><img src=\"/Content/assets/frontend/layout/img/price-shadow.png\" style=\"width:100%; height:10px;\" alt=\"Cena\" /></div></div></div><h3 class=\"product-title\"><a href=\"/sport-i-rekreacija/ostala-sportska-oprema/pistaljke-fox40-sonikblast-cmg-sa-vezicom/3058599?kid=1\">Pistaljke Fox40 SonikBlast CMG sa vezicom</a></h3><p class=\"product-description\">Jedini u Srbiji prodajem profesionalne sudijske pistaljke Fox40 Sonik Blast CMG, sa gumom i vezicom. Stigle iz Kanade i u originalnom pakovanju kao na slici! Ja ih koristim kao kosarkaski sudija i ne postoji bolja pistaljka po mom misljenju, a pritom je ovo najglasnija pistaljka na svetu (premasuje...</p><div class=\"clear\"></div><div class=\"clear\"></div></div></div>","<div class=\"col-md-6 col-sm-6 col-xs-12\"><div class=\"product-item product-grid-item Standard market my-product-placeholder\"><figure class=\"pi-img-wrapper\"><a class=\"a-images\" href=\"/sport-i-rekreacija/ostala-sportska-oprema/sal-panathinaikos/5425641576150?kid=1\"><img src='https://img.halooglasi.com//slike/oglasi/Thumbs/220220/m/sal-panathinaikos-5425641576150-71799041951.jpg' class=\"\" alt=\"Šal Panathinaikos\" onError=\"this.onerror = null; this.src = &#39;/Content/Quiddita/Widgets/Product/Stylesheets/img/no-image.jpg&#39;\"></a><div class=\"pi-img-count-wrapper\"><span class=\"pi-img-count-icon\"></span><span class=\"pi-img-count-num\">1</span></div><div class=\"wrap-btn-fav\"><div class=\"btn-group btn-group-solid\"><button type=\"button\" class=\"btn btn-circle btn-fav-product-star fav-cmd favorite-product-holder tipso-details tipso_style\" data-id=\"5425641576150\" title=\"Dodaj u izabrane oglase\"></button></div></div><div class=\"product-type\"></div></figure><div class=\"central-feature-wrapper\"><div class=\"central-feature\"><span data-value=\"15\"><i>15&nbsp;€</i></span><div class=\"price-shadow\"><img src=\"/Content/assets/frontend/layout/img/price-shadow.png\" style=\"width:100%; height:10px;\" alt=\"Cena\" /></div></div></div><h3 class=\"product-title\"><a href=\"/sport-i-rekreacija/ostala-sportska-oprema/sal-panathinaikos/5425641576150?kid=1\">Šal Panathinaikos</a></h3><p class=\"product-description\">Prodajem nekorišćen original šal Panathinaikos-a</p><div class=\"clear\"></div><div class=\"clear\"></div></div></div>"],"VacationAttributeValuesDict":null}; for (var i in QuidditaEnvironment.CurrentClassified.OtherFields) { QuidditaEnvironment.CurrentClassified[i] = QuidditaEnvironment.CurrentClassified.OtherFields[i]; };
+	QuidditaEnvironment.IsUserOperator=false
+	
+	QuidditaEnvironment.CurrentClassifiedInstances=[{"Id":"5425635280408","Title":"Karting","AdKindId":"1","AdKindCode":"Standard","StateId":101,"ImportTypeId":1,"ValidFrom":"2022-12-09T02:56:45.487Z","ValidTo":"2023-01-08T02:56:45.487Z","ValidFromProlonged":null,"ValidToProlonged":null,"LastPublished":"2022-12-09T02:56:45.487Z","TotalViews":0,"CategoryNames":["Market","Sport i rekreacija","Ostala sportska oprema"],"HasAutomaticRenewal":true,"IsPromoted":false,"ExpiresWithin48Hours":false,"DisableAutoRenewal":false,"ShowMoveToTop":true}]
+</script>
+
+<div class="operating-panel" id="operating-panel-1" style="display:none;">
+	<div class="col-md-12 col-lg-12" id="operating-panel-1-panel-wrapper">
+		<div class="row">
+			<div class="col-md-6 col-lg-6 my-ads-box" id="operating-panel-1-panel-outer-left">
+				<div class="row">
+					<div class="col-md-6 col-lg-6" id="operating-panel-1-panel-inner">
+						<p class="user-ad" id="operating-panel-1-user-ad">Oglas korisnika</p>
+						<a href="#" id="operating-panel-1-user-name">no-reply@halooglasi.com</a>
+						<a href="#" id="operating-panel-1-user-all-ads" class="all-ads">Svi oglasi ovog korisnika ></a>
+						<div class="interesting-flags" style="display: none;">
+							<div class="interesting-internal">
+								<input id="IsInterestingInternal" name="IsInterestingInternal" type="checkbox" />
+								<label>Zanimljiv sajt</label>
+							</div>
+							<div class="interesting-external">
+								<input id="IsInterestingExternal" name="IsInterestingExternal" type="checkbox" />
+								<label>Zanimljiv vidžet</label>
+							</div>
+							<div class="premium-offer">
+								<input id="IsPremiumOffer" name="IsPremiumOffer" type="checkbox" />
+								<label>Premium ponuda</label>
+							</div>
+							<div class="interesting-btn-wrapper">
+								<a href="javascript:void(0);" class="interesting-submit-btn">Potvrdi</a>
+							</div>
+						</div>
+						<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+								
+									if (QuidditaEnvironment.IsUserOperator) {
+										document.getElementById('operating-panel-1-user-name').innerHTML = Model.Advertiser.DisplayName;
+									}
+									else {
+										document.getElementById('operating-panel-1-user-name').innerHTML = 'Moj oglas!';
+										document.getElementById('operating-panel-1-user-all-ads').innerHTML = 'Moji oglasi >';
+										document.getElementById('operating-panel-1-user-ad').parentNode.removeChild(document.getElementById('operating-panel-1-user-ad'));
+									}
+
+									if (Model.UserAdsRoute)
+										document.getElementById('operating-panel-1-user-all-ads').setAttribute('href', '/' + Model.UserAdsRoute);
+									else
+										document.getElementById('operating-panel-1-user-all-ads').parentNode.removeChild(document.getElementById('operating-panel-1-user-all-ads'));
+								
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+						</script>
+						<div id="operating-panel-1edit-box" class="edit-box">
+							<img class="auto-verified-show confirm-verification" src="/Content/Quiddita/Widgets/Product/Stylesheets/img/not-edit.png" /> <span class="auto-verified-show">Izvršena <br /> automatska <br /> korektura</span>
+							<img class="operator-verified-show" src="/Content/Quiddita/Widgets/Product/Stylesheets/img/edit-yes.png" /> <span class="operator-verified-show">Izvršena <br /> ručna <br /> korektura</span>
+							<img class="not-verified-show" src="/Content/Quiddita/Widgets/Product/Stylesheets/img/exit-draw.png" /> <span class="not-verified-show">Izmene <br /> čekaju <br /> korekturu </span>
+						</div>
+						<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+						
+							if (!QuidditaEnvironment.IsUserOperator) {
+								document.getElementById('operating-panel-1edit-box').parentNode.removeChild(document.getElementById('operating-panel-1edit-box'));
+							}
+							else {
+								if (classified.IsVerificationPending) {
+									document.getElementById('operating-panel-1edit-box').className += " not-verified";
+								}
+								else if (classified.VerificationStateId == 2) {
+									document.getElementById('operating-panel-1edit-box').className += " auto-verified";
+								}
+								else if (classified.VerificationStateId == 3) {
+									document.getElementById('operating-panel-1edit-box').className += " operator-verified";
+								}
+							}
+							
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+						</script>
+					</div>
+					<div class="col-md-6 col-lg-6">
+						<div class="history-box" id="operating-panel-1history-box"></div>
+						<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+						
+							var ActionTypes = { Change: 1, Verification: 2 };
+							var RecordTypes = { CreateObject: 1, ModifyObject: 2, DeleteObject: 3 };
+							if (!QuidditaEnvironment.IsUserOperator) {
+								document.getElementById('operating-panel-1history-box').parentNode.removeChild(document.getElementById('operating-panel-1history-box'));
+							}
+							else {
+								var hist = classified.History;
+								var html = '';
+								for (var i = 0; i < hist.length; i++) {
+									if (hist[i].RecordType == RecordTypes.CreateObject)
+										html += '<p>' + hist[i].ChangeDateTime + '<span>Oglas kreiran</span></p>';
+									else if (hist[i].RecordType == RecordTypes.DeleteObject)
+										html += '<p>' + hist[i].ChangeDateTime + '<span>Oglas obrisan</span></p>';
+									else if (hist[i].Action == ActionTypes.Verification)
+										html += '<p>' + hist[i].ChangeDateTime + '<span class="user">Korigovan (' + hist[i].UserDisplayName + ') ' + '</span></p>';
+									else
+										html += '<p>' + hist[i].ChangeDateTime + '<span>Oglas izmenjen</span></p>';
+								}
+								var hb = document.getElementById('operating-panel-1history-box');
+								hb.innerHTML = html;
+								hb.scrollTop = hb.scrollHeight;
+							}
+						
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+						</script>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-6" id="operating-panel-1-panel-outer-right">
+				<div class="row controls-container">
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="arrow"></div>
+	<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+			
+		if (!QuidditaEnvironment.IsUserOperator) {
+			document.getElementById('operating-panel-1').className += " owner-panel";
+			document.getElementById('operating-panel-1-panel-wrapper').className = "col-lg-9 col-md-12";
+			document.getElementById('operating-panel-1-panel-outer-left').className = "col-md-5 col-lg-5";
+			document.getElementById('operating-panel-1-panel-outer-left').style.textAlign = "right";
+			document.getElementById('operating-panel-1-panel-inner').className = "col-md-12 col-lg-12";
+			document.getElementById('operating-panel-1-panel-outer-right').className = "col-md-7 col-lg-7";
+		}
+		
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+	</script>
+	<div class="stop-box" id="operating-panel-1stopBox">
+		<input type="hidden" class="product-kind-id" />
+		<div class="title">Stopiranje oglasa</div>
+		<div class="subtitle">Razlog stopiranja</div>
+		<ul>
+
+			<li><input class="stoppage-reason" type="checkbox" id="DoubledProduct" value="1" /> <label for="DoubledProduct"> Duplirani oglas</label></li>
+
+			<li><input class="stoppage-reason" type="checkbox" id="UnauthorizedAdvertising" value="3" /> <label for="UnauthorizedAdvertising"> Nedozvoljeno oglašavanje</label></li>
+
+			<li><input class="stoppage-reason" type="checkbox" id="UnsupportedCategory" value="5" /> <label for="UnsupportedCategory"> Rubrika nije podržana</label></li>
+
+			<li><input class="stoppage-reason" type="checkbox" id="IncompleteInformation" value="2" /> <label for="IncompleteInformation"> Nepotpun oglas</label></li>
+
+			<li><input class="stoppage-reason" type="checkbox" id="WrongCategory" value="4" /> <label for="WrongCategory"> Pogrešna rubrika</label></li>
+		</ul>
+		<textarea class="stoppage-reason-description" placeholder="Komentar"></textarea>
+		<a href="#" class="stop stop-product-confirm pull-right prevent">Ok</a>
+		<a href="#" class="gaveup stop-product-cancel pull-right prevent">Odustani</a>
+		<div class="clear"></div>
+	</div>
+	<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+		
+		if (!QuidditaEnvironment.IsUserOperator)
+			document.getElementById('operating-panel-1stopBox').parentNode.removeChild(document.getElementById('operating-panel-1stopBox'));
+		
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+	</script>
+	<div class="clear"></div>
+
+	<script id="operating-panel-1controlsTemplate" type="text/x-handlebars-template">
+		{{#each rows}}
+		<div class="col-md-6 col-xs-6">
+			<div class="product-type">
+				<ul>
+					<li><span>Tip</span> {{#if IsPromoted}}Istaknuti poslodavac{{else}}{{ProductKindName AdKindId}}{{/if}}</li>
+					<li>
+						<span>Postavljen</span>
+						{{#if ValidFromProlonged}}
+						{{FormatDateFromJsonDefault ValidFromProlonged}}
+						{{else}}
+						{{#if LastPublished}}
+						{{FormatDateFromJsonDefault LastPublished}}
+						{{/if}}
+						{{/if}}
+					</li>
+					<li>
+						<span>Ističe</span>
+						{{#if ValidToProlonged}}
+						{{FormatDateFromJsonDefault ValidToProlonged}}
+						{{else}}
+						{{#if ValidTo}}
+						{{FormatDateFromJsonDefault ValidTo}}
+						{{/if}}
+						{{/if}}
+					</li>
+					<li><span>Pregleda</span> {{TotalViews}}</li>
+				</ul>
+			</div>
+		</div>
+		{{#IfGreater CategoryNames.length 1}}{{#IfEquals CategoryNames.[1] "Kursevi i obuke"}}{{else}}{{AssignPropertyValue "RenderOptions" true}}{{/IfEquals}}{{else}}{{AssignPropertyValue "RenderOptions" true}}{{/IfGreater}}
+		{{#if RenderOptions}}
+		<div class="col-md-6 col-xs-6 {{#IfEquals StateId 101}}active-product{{/IfEquals}}">
+			<div class="product-options">
+				<ul>
+					
+					{{#IfNotEquals StateId 109}}
+					{{#IfNotEquals AdKindId "4"}}
+					{{#IfNotEquals ImportTypeId 2}}
+					<li><a href="javascript:void(0);" class="highlight buy-product-instance improve-product-instance" data-product-kind-id="" data-improve-product-kind-id="{{AdKindId}}" data-media-id="2">Unapredi oglas</a></li>
+					{{/IfNotEquals}}
+					{{/IfNotEquals}}
+					{{/IfNotEquals}}
+					
+					{{#IfEquals StateId 101}}
+					{{#IfNotEquals AdKindId "24"}}
+					{{#if ShowMoveToTop}}
+					<li><a href="javascript:void(0);" class="highlight-front move-to-top" data-id="{{Id}}" data-product-kind-id="{{AdKindId}}" data-media-id="2">Pomeri na vrh</a></li>
+					{{/if}}
+					{{/IfNotEquals}}
+					{{#if IsPromoted}}
+					{{else}}
+					{{#IfNotEquals ImportTypeId 2}}
+					{{#if DisableAutoRenewal}}
+					{{else}}
+					<li><a href="javascript:void(0);" class="auto toggle-auto-renewal {{#if HasAutomaticRenewal}}active{{/if}}" data-product-kind-id="{{AdKindId}}" data-media-id="2">Auto. obnova</a></li>
+					{{/if}}
+					{{/IfNotEquals}}
+					{{/if}}
+					{{/IfEquals}}
+				</ul>
+			</div>
+			<div class="product-changes">
+				{{#IfNotEquals ImportTypeId 2}}
+				<a href="{{AdEditURL}}"><span class="glyphicon glyphicon-pencil"></span> Izmeni</a>
+				{{/IfNotEquals}}
+				{{#IfNotEquals CategoryNames.[0] "Posao"}}
+				{{#IfNotEquals ImportTypeId 2}}
+				<a href="javascript:void(0);" class="delete-product" data-product-kind-id="{{AdKindId}}" data-id="{{Id}}" data-title="{{Title}}"><span class="glyphicon glyphicon-remove"></span> Obriši</a>
+				{{/IfNotEquals}}
+				{{/IfNotEquals}}
+				{{#IfEquals CategoryNames.[0] "Posao"}}
+				{{#IfNotEquals StateId 101}}
+				<a href="javascript:void(0);" class="delete-product" data-product-kind-id="{{AdKindId}}" data-id="{{Id}}" data-title="{{Title}}"><span class="glyphicon glyphicon-remove"></span> Obriši</a>
+				{{/IfNotEquals}}
+				{{/IfEquals}}
+				{{#IfNotEquals ImportTypeId 2}}
+				{{#IfEquals StateId 112}}
+				<a href="javascript:void(0);" class="reconstruction renew-product" data-product-kind-id="{{AdKindId}}" data-is-promoted="{{IsPromoted}}" data-id="{{Id}}" data-media-id="2">Obnovi</a>
+				{{/IfEquals}}
+				{{#IfEquals StateId 101}}
+				{{#if ExpiresWithin48Hours}}
+				<a href="javascript:void(0);" class="reconstruction renew-product" data-product-kind-id="{{AdKindId}}" data-is-promoted="{{IsPromoted}}" data-id="{{Id}}" data-media-id="2"><span class="glyphicon glyphicon-share-alt"></span> Produži</a>
+				{{/if}}
+				{{/IfEquals}}
+				{{#AdvanceToState 111}}
+				<a href="javascript:void(0);" class="toggle-deactivate" data-product-kind-id="{{AdKindId}}" data-media-id="2"><span class="glyphicon glyphicon-pause"></span> Pauziraj</a>
+				{{/AdvanceToState}}
+				{{#IfEquals StateId 111}}
+				{{#AdvanceToState 101}}
+				<a href="javascript:void(0);" class="toggle-deactivate deactivated" data-product-kind-id="{{AdKindId}}" data-media-id="2"><span class="glyphicon glyphicon-play"></span> Aktiviraj</a>
+				{{/AdvanceToState}}
+				{{/IfEquals}}
+				{{/IfNotEquals}}
+			</div>
+		</div>
+		<div class="clear"></div>
+		{{/if}}
+		{{/each}}
+	</script>
+</div>
+<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+	
+	if (!(classified.IsOwnedByCurrentUser || QuidditaEnvironment.IsUserOperator) || classified.StateId != 101)
+		document.getElementById('operating-panel-1').parentNode.removeChild(document.getElementById('operating-panel-1'));
+	else
+		document.getElementById('operating-panel-1').style.display = 'block';
+	
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+</script>
+
+	</div>
+	<div data-widget-template-id="77" class="item-pager-widget item-pager-widget item-pager-item">
+		<div class="row">
+	<div class="col-md-9 nav-controls" style="display: none;">
+		<div class="item-nav go-previous fleft"><a href="#"><span class="fa fa-angle-left"></span>&nbsp; Prethodni</a></div>
+		<div class="item-nav go-next fright"><a href="#">Sledeći &nbsp;<span class="fa fa-angle-right"></span></a></div>
+		<div class="back-to-list"><a href="#">Povratak na listu oglasa</a></div>
+		<div class="clear"></div>
+	</div>
+</div>
+
+
+
+
+	</div>
+</div>
+		<div class="row margin-bottom-20" style="margin-left:-2px;margin-right:0;">
+			<section class="main-content-zone col-sm-12 col-xs-12 fleft" data-zone="content" role="contentinfo">
+	<div data-widget-template-id="1" class="widget-ad-display widget-basic-ad-details ad-details">
+		
+<input id="Id" name="Id" type="hidden" value="5425596705365" />
+
+
+<script src="/Scripts/fotorama.js"></script>
+
+<script>
+	function parseSolrDate(s) {
+		// parenthese matches:
+		// year month day    hours minutes seconds  
+		// dotmilliseconds 
+		// tzstring plusminus hours minutes
+		var re = /(\d{4})-(\d\d)-(\d\d)T(\d\d):(\d\d):(\d\d)(\.\d+)?(Z|([+-])(\d\d):(\d\d))/;
+
+		var d = [];
+		d = s.match(re);
+
+		// "2010-12-07T11:00:00.000-09:00" parses to:
+		//  ["2010-12-07T11:00:00.000-09:00", "2010", "12", "07", "11",
+		//     "00", "00", ".000", "-09:00", "-", "09", "00"]
+		// "2010-12-07T11:00:00.000Z" parses to:
+		//  ["2010-12-07T11:00:00.000Z",      "2010", "12", "07", "11", 
+		//     "00", "00", ".000", "Z", undefined, undefined, undefined]
+
+		if (!d) {
+			throw "Couldn't parse ISO 8601 date string '" + s + "'";
+		}
+
+		// parse strings, leading zeros into proper ints
+		var a = [1, 2, 3, 4, 5, 6, 10, 11];
+		for (var i in a) {
+			d[a[i]] = parseInt(d[a[i]], 10);
+		}
+		d[7] = parseFloat(d[7]);
+
+		// Date.UTC(year, month[, date[, hrs[, min[, sec[, ms]]]]])
+		// note that month is 0-11, not 1-12
+		// see https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Date/UTC
+		var ms = Date.UTC(d[1], d[2] - 1, d[3], d[4], d[5], d[6]);
+
+		// if there are milliseconds, add them
+		if (d[7] > 0) {
+			ms += Math.round(d[7] * 1000);
+		}
+
+		//When creating Date object from milliseconds, milliseconds are interpreted as UTC milliseconds,
+		//meaning that "new Date(0)" will give 01/01/1970 01:00:00 for the +01 timezone. If timezone is specified in string,
+		//this would pretty much mess things up, giving unexpected results: "1970-01-01T00:00:00+01:00" would be converted to
+		//01/01/1970 02:00:00 in +01 timezone, therefore the client timezone offset is subtracted.
+		//ms += (new Date(ms)).getTimezoneOffset() * 60 * 1000;
+
+		return new Date(ms);
+	};
+
+	function formatSolrDate(s) {
+		return typeof s == 'string' ? s.replace(/^([\d]{4})(-)([\d]{2})(-)([\d]{2})(.*)$/, '$5.$3.$1.') : null;
+	};
+
+	function groupThousands (/*string*/number, scale) {
+		if (typeof number == 'number')
+			number = number.toString().replace('.', Sys.CultureInfo.CurrentCulture.numberFormat.NumberDecimalSeparator);
+		if (typeof (number) == 'string') {
+			var parts = number.split(Sys.CultureInfo.CurrentCulture.numberFormat.NumberDecimalSeparator);
+			var integerPart = parts[0].replace(new RegExp('\\' + Sys.CultureInfo.CurrentCulture.numberFormat.NumberGroupSeparator, 'g'), '');
+			integerPart = integerPart.replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1" + Sys.CultureInfo.CurrentCulture.numberFormat.NumberGroupSeparator);
+			parts[0] = integerPart;
+
+			if (typeof scale == 'object') {
+				if (scale.scaleIntegers || parts.length > 1 && parts[1].length > 0)
+					scale = scale.scale;
+				else
+					scale = 0;
+			}
+
+			if (!isNaN(scale) && parts[0].length > 0) {
+				if (parts.length == 1) {
+					parts.push("".padRight(0, scale));
+				}
+				else if (parts[1].length < scale) {
+					parts[1] = parts[1].padRight(0, scale);
+				}
+			}
+
+			if (scale > 0)
+				return parts.join(Sys.CultureInfo.CurrentCulture.numberFormat.NumberDecimalSeparator);
+			else
+				return parts[0];
+		}
+		else {
+			return number;
+		}
+	}
+
+	var pluralsConfig = {"0":3,"1":1,"2":2,"3":2,"4":2,"5":3,"6":3,"7":3,"8":3,"9":3,"10":3,"11":3,"12":3,"13":3,"14":3,"15":3,"16":3,"17":3,"18":3,"19":3};
+	var unitsDict = {"povrsina_placa_d":{"AttributeIndexedName":"povrsina_placa_d","DefaultUnitId":2,"DefaultUnitName":"ar","DefaultUnitHTMLDisplayName":"ar","DefaultUnitHTMLNumeralDisplayNames":"{{\"ar\"|\"ara\"|\"ari\"}}","AvailableUnits":[{"UnitTypeId":1,"Name":"m2","HTMLDisplayName":"m<sup>2</sup>","HTMLNumeralDisplayNames":"{{\"m<sup>2</sup>\"|\"m<sup>2</sup>\"|\"m<sup>2</sup>\"}}","Id":1,"Version":1},{"UnitTypeId":1,"Name":"ar","HTMLDisplayName":"ar","HTMLNumeralDisplayNames":"{{\"ar\"|\"ara\"|\"ari\"}}","Id":2,"Version":1},{"UnitTypeId":1,"Name":"ha","HTMLDisplayName":"ha","HTMLNumeralDisplayNames":"{{\"ha\"|\"ha\"|\"ha\"}}","Id":5,"Version":1},{"UnitTypeId":1,"Name":"jutro","HTMLDisplayName":"jutro","HTMLNumeralDisplayNames":"{{\"jutro\"|\"jutra\"|\"jutara\"}}","Id":6,"Version":1}],"Id":184,"Version":3},"maksimalna_dozvoljena_masa_s":{"AttributeIndexedName":"maksimalna_dozvoljena_masa_s","DefaultUnitId":17,"DefaultUnitName":"kg","DefaultUnitHTMLDisplayName":"kg","DefaultUnitHTMLNumeralDisplayNames":"{{\"kg\"|\"kg\"|\"kg\"}}","AvailableUnits":[{"UnitTypeId":8,"Name":"t","HTMLDisplayName":"t","HTMLNumeralDisplayNames":"{{\"t\"|\"t\"|\"t\"}}","Id":18,"Version":1},{"UnitTypeId":8,"Name":"kg","HTMLDisplayName":"kg","HTMLNumeralDisplayNames":"{{\"kg\"|\"kg\"|\"kg\"}}","Id":17,"Version":1}],"Id":811,"Version":3},"korisna_nosivost_i":{"AttributeIndexedName":"korisna_nosivost_i","DefaultUnitId":17,"DefaultUnitName":"kg","DefaultUnitHTMLDisplayName":"kg","DefaultUnitHTMLNumeralDisplayNames":"{{\"kg\"|\"kg\"|\"kg\"}}","AvailableUnits":[{"UnitTypeId":8,"Name":"kg","HTMLDisplayName":"kg","HTMLNumeralDisplayNames":"{{\"kg\"|\"kg\"|\"kg\"}}","Id":17,"Version":1}],"Id":812,"Version":3},"visina_sasije_s":{"AttributeIndexedName":"visina_sasije_s","DefaultUnitId":13,"DefaultUnitName":"m","DefaultUnitHTMLDisplayName":"m","DefaultUnitHTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","AvailableUnits":[{"UnitTypeId":6,"Name":"m","HTMLDisplayName":"m","HTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","Id":13,"Version":1}],"Id":1518,"Version":3},"kilometraza_i":{"AttributeIndexedName":"kilometraza_i","DefaultUnitId":14,"DefaultUnitName":"km","DefaultUnitHTMLDisplayName":"km","DefaultUnitHTMLNumeralDisplayNames":"{{\"km\"|\"km\"|\"km\"}}","AvailableUnits":[{"UnitTypeId":6,"Name":"km","HTMLDisplayName":"km","HTMLNumeralDisplayNames":"{{\"km\"|\"km\"|\"km\"}}","Id":14,"Version":1}],"Id":1594,"Version":3},"snaga_motora_d":{"AttributeIndexedName":"snaga_motora_d","DefaultUnitId":7,"DefaultUnitName":"kW","DefaultUnitHTMLDisplayName":"kW","DefaultUnitHTMLNumeralDisplayNames":"{{\"kW\"|\"kW\"|\"kW\"}}","AvailableUnits":[{"UnitTypeId":4,"Name":"kW","HTMLDisplayName":"kW","HTMLNumeralDisplayNames":"{{\"kW\"|\"kW\"|\"kW\"}}","Id":7,"Version":1},{"UnitTypeId":4,"Name":"KS","HTMLDisplayName":"KS","HTMLNumeralDisplayNames":"{{\"KS\"|\"KS\"|\"KS\"}}","Id":8,"Version":1}],"Id":1612,"Version":3},"kubikaza_d":{"AttributeIndexedName":"kubikaza_d","DefaultUnitId":19,"DefaultUnitName":"cm3","DefaultUnitHTMLDisplayName":"cm<sup>3</sup>","DefaultUnitHTMLNumeralDisplayNames":"{{\"cm<sup>3</sup>\"|\"cm<sup>3</sup>\"|\"cm<sup>3</sup>\"}}","AvailableUnits":[{"UnitTypeId":2,"Name":"cm3","HTMLDisplayName":"cm<sup>3</sup>","HTMLNumeralDisplayNames":"{{\"cm<sup>3</sup>\"|\"cm<sup>3</sup>\"|\"cm<sup>3</sup>\"}}","Id":19,"Version":1}],"Id":1731,"Version":3},"povrsina_d":{"AttributeIndexedName":"povrsina_d","DefaultUnitId":2,"DefaultUnitName":"ar","DefaultUnitHTMLDisplayName":"ar","DefaultUnitHTMLNumeralDisplayNames":"{{\"ar\"|\"ara\"|\"ari\"}}","AvailableUnits":[{"UnitTypeId":1,"Name":"m2","HTMLDisplayName":"m<sup>2</sup>","HTMLNumeralDisplayNames":"{{\"m<sup>2</sup>\"|\"m<sup>2</sup>\"|\"m<sup>2</sup>\"}}","Id":1,"Version":1},{"UnitTypeId":1,"Name":"ar","HTMLDisplayName":"ar","HTMLNumeralDisplayNames":"{{\"ar\"|\"ara\"|\"ari\"}}","Id":2,"Version":1},{"UnitTypeId":1,"Name":"ha","HTMLDisplayName":"ha","HTMLNumeralDisplayNames":"{{\"ha\"|\"ha\"|\"ha\"}}","Id":5,"Version":1},{"UnitTypeId":1,"Name":"jutro","HTMLDisplayName":"jutro","HTMLNumeralDisplayNames":"{{\"jutro\"|\"jutra\"|\"jutara\"}}","Id":6,"Version":1}],"Id":1789,"Version":3},"kvadratura_d":{"AttributeIndexedName":"kvadratura_d","DefaultUnitId":1,"DefaultUnitName":"m2","DefaultUnitHTMLDisplayName":"m<sup>2</sup>","DefaultUnitHTMLNumeralDisplayNames":"{{\"m<sup>2</sup>\"|\"m<sup>2</sup>\"|\"m<sup>2</sup>\"}}","AvailableUnits":[{"UnitTypeId":1,"Name":"m2","HTMLDisplayName":"m<sup>2</sup>","HTMLNumeralDisplayNames":"{{\"m<sup>2</sup>\"|\"m<sup>2</sup>\"|\"m<sup>2</sup>\"}}","Id":1,"Version":1}],"Id":2058,"Version":3},"cena_d":{"AttributeIndexedName":"cena_d","DefaultUnitId":4,"DefaultUnitName":"EUR","DefaultUnitHTMLDisplayName":"€","DefaultUnitHTMLNumeralDisplayNames":"{{\"€\"|\"€\"|\"€\"}}","AvailableUnits":[{"UnitTypeId":3,"Name":"EUR","HTMLDisplayName":"€","HTMLNumeralDisplayNames":"{{\"€\"|\"€\"|\"€\"}}","Id":4,"Version":1},{"UnitTypeId":3,"Name":"RSD","HTMLDisplayName":"din","HTMLNumeralDisplayNames":"{{\"din\"|\"din\"|\"din\"}}","Id":3,"Version":1}],"Id":5000,"Version":3},"trajanje_kursa_d":{"AttributeIndexedName":"trajanje_kursa_d","DefaultUnitId":12,"DefaultUnitName":"mesec","DefaultUnitHTMLDisplayName":"meseci","DefaultUnitHTMLNumeralDisplayNames":"{{\"mesec\"|\"meseca\"|\"meseci\"}}","AvailableUnits":[{"UnitTypeId":5,"Name":"mesec","HTMLDisplayName":"meseci","HTMLNumeralDisplayNames":"{{\"mesec\"|\"meseca\"|\"meseci\"}}","Id":12,"Version":1},{"UnitTypeId":5,"Name":"nedelja","HTMLDisplayName":"nedelja","HTMLNumeralDisplayNames":"{{\"nedelja\"|\"nedelje\"|\"nedelja\"}}","Id":11,"Version":1},{"UnitTypeId":5,"Name":"dan","HTMLDisplayName":"dana","HTMLNumeralDisplayNames":"{{\"dan\"|\"dana\"|\"dana\"}}","Id":10,"Version":1}],"Id":6103,"Version":3},"originalna_cena_d":{"AttributeIndexedName":"originalna_cena_d","DefaultUnitId":4,"DefaultUnitName":"EUR","DefaultUnitHTMLDisplayName":"€","DefaultUnitHTMLNumeralDisplayNames":"{{\"€\"|\"€\"|\"€\"}}","AvailableUnits":[{"UnitTypeId":3,"Name":"EUR","HTMLDisplayName":"€","HTMLNumeralDisplayNames":"{{\"€\"|\"€\"|\"€\"}}","Id":4,"Version":1},{"UnitTypeId":3,"Name":"RSD","HTMLDisplayName":"din","HTMLNumeralDisplayNames":"{{\"din\"|\"din\"|\"din\"}}","Id":3,"Version":1}],"Id":6104,"Version":3},"duzina_plovila_i":{"AttributeIndexedName":"duzina_plovila_i","DefaultUnitId":13,"DefaultUnitName":"m","DefaultUnitHTMLDisplayName":"m","DefaultUnitHTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","AvailableUnits":[{"UnitTypeId":6,"Name":"m","HTMLDisplayName":"m","HTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","Id":13,"Version":1}],"Id":6232,"Version":3},"sirina_plovila_i":{"AttributeIndexedName":"sirina_plovila_i","DefaultUnitId":13,"DefaultUnitName":"m","DefaultUnitHTMLDisplayName":"m","DefaultUnitHTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","AvailableUnits":[{"UnitTypeId":6,"Name":"m","HTMLDisplayName":"m","HTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","Id":13,"Version":1}],"Id":6233,"Version":3},"visina_plovila_i":{"AttributeIndexedName":"visina_plovila_i","DefaultUnitId":13,"DefaultUnitName":"m","DefaultUnitHTMLDisplayName":"m","DefaultUnitHTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","AvailableUnits":[{"UnitTypeId":6,"Name":"m","HTMLDisplayName":"m","HTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","Id":13,"Version":1}],"Id":6234,"Version":3},"maksimalna_nosivost_i":{"AttributeIndexedName":"maksimalna_nosivost_i","DefaultUnitId":17,"DefaultUnitName":"kg","DefaultUnitHTMLDisplayName":"kg","DefaultUnitHTMLNumeralDisplayNames":"{{\"kg\"|\"kg\"|\"kg\"}}","AvailableUnits":[{"UnitTypeId":8,"Name":"kg","HTMLDisplayName":"kg","HTMLNumeralDisplayNames":"{{\"kg\"|\"kg\"|\"kg\"}}","Id":17,"Version":1}],"Id":6267,"Version":3},"duzina_vozila_i":{"AttributeIndexedName":"duzina_vozila_i","DefaultUnitId":13,"DefaultUnitName":"m","DefaultUnitHTMLDisplayName":"m","DefaultUnitHTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","AvailableUnits":[{"UnitTypeId":6,"Name":"m","HTMLDisplayName":"m","HTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","Id":13,"Version":1}],"Id":6270,"Version":3},"lizing_iznos_rate_d":{"AttributeIndexedName":"lizing_iznos_rate_d","DefaultUnitId":4,"DefaultUnitName":"EUR","DefaultUnitHTMLDisplayName":"€","DefaultUnitHTMLNumeralDisplayNames":"{{\"€\"|\"€\"|\"€\"}}","AvailableUnits":[{"UnitTypeId":3,"Name":"EUR","HTMLDisplayName":"€","HTMLNumeralDisplayNames":"{{\"€\"|\"€\"|\"€\"}}","Id":4,"Version":1}],"Id":6301,"Version":3},"lizing_iznos_otkupa_d":{"AttributeIndexedName":"lizing_iznos_otkupa_d","DefaultUnitId":4,"DefaultUnitName":"EUR","DefaultUnitHTMLDisplayName":"€","DefaultUnitHTMLNumeralDisplayNames":"{{\"€\"|\"€\"|\"€\"}}","AvailableUnits":[{"UnitTypeId":3,"Name":"EUR","HTMLDisplayName":"€","HTMLNumeralDisplayNames":"{{\"€\"|\"€\"|\"€\"}}","Id":4,"Version":1}],"Id":6302,"Version":3},"cena_noc_d":{"AttributeIndexedName":"cena_noc_d","DefaultUnitId":16,"DefaultUnitName":"EUR/noć","DefaultUnitHTMLDisplayName":"€/noć","DefaultUnitHTMLNumeralDisplayNames":"{{\"€/noć\"|\"€/noć\"|\"€/noć\"}}","AvailableUnits":[{"UnitTypeId":7,"Name":"RSD/noć","HTMLDisplayName":"din/noć","HTMLNumeralDisplayNames":"{{\"din/noć\"|\"din/noć\"|\"din/noć\"}}","Id":15,"Version":1},{"UnitTypeId":7,"Name":"EUR/noć","HTMLDisplayName":"€/noć","HTMLNumeralDisplayNames":"{{\"€/noć\"|\"€/noć\"|\"€/noć\"}}","Id":16,"Version":1}],"Id":8043,"Version":3},"udaljenost_centar_i":{"AttributeIndexedName":"udaljenost_centar_i","DefaultUnitId":13,"DefaultUnitName":"m","DefaultUnitHTMLDisplayName":"m","DefaultUnitHTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","AvailableUnits":[{"UnitTypeId":6,"Name":"m","HTMLDisplayName":"m","HTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","Id":13,"Version":1}],"Id":8044,"Version":3},"udaljenost_prodavnica_i":{"AttributeIndexedName":"udaljenost_prodavnica_i","DefaultUnitId":13,"DefaultUnitName":"m","DefaultUnitHTMLDisplayName":"m","DefaultUnitHTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","AvailableUnits":[{"UnitTypeId":6,"Name":"m","HTMLDisplayName":"m","HTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","Id":13,"Version":1}],"Id":8045,"Version":3},"udaljenost_plaza_i":{"AttributeIndexedName":"udaljenost_plaza_i","DefaultUnitId":13,"DefaultUnitName":"m","DefaultUnitHTMLDisplayName":"m","DefaultUnitHTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","AvailableUnits":[{"UnitTypeId":6,"Name":"m","HTMLDisplayName":"m","HTMLNumeralDisplayNames":"{{\"m\"|\"m\"|\"m\"}}","Id":13,"Version":1}],"Id":8046,"Version":3},"mesecne_rezije_d":{"AttributeIndexedName":"mesecne_rezije_d","DefaultUnitId":4,"DefaultUnitName":"EUR","DefaultUnitHTMLDisplayName":"€","DefaultUnitHTMLNumeralDisplayNames":"{{\"€\"|\"€\"|\"€\"}}","AvailableUnits":[{"UnitTypeId":3,"Name":"EUR","HTMLDisplayName":"€","HTMLNumeralDisplayNames":"{{\"€\"|\"€\"|\"€\"}}","Id":4,"Version":1}],"Id":8168,"Version":2},"agencijska_provizija_d":{"AttributeIndexedName":"agencijska_provizija_d","DefaultUnitId":27,"DefaultUnitName":"%","DefaultUnitHTMLDisplayName":"%","DefaultUnitHTMLNumeralDisplayNames":"{{\"%\"|\"%\"|\"%\"}}","AvailableUnits":[{"UnitTypeId":10,"Name":"€","HTMLDisplayName":"€","HTMLNumeralDisplayNames":"{{\"€\"|\"€\"|\"€\"}}","Id":28,"Version":1},{"UnitTypeId":10,"Name":"%","HTMLDisplayName":"%","HTMLNumeralDisplayNames":"{{\"%\"|\"%\"|\"%\"}}","Id":27,"Version":1}],"Id":8169,"Version":2},"plata_d":{"AttributeIndexedName":"plata_d","DefaultUnitId":21,"DefaultUnitName":"dinara/mesečno","DefaultUnitHTMLDisplayName":"dinara","DefaultUnitHTMLNumeralDisplayNames":"{{\"dinar\"|\"dinara\"|\"dinara\"}}","AvailableUnits":[{"UnitTypeId":9,"Name":"dinara/mesečno","HTMLDisplayName":"dinara","HTMLNumeralDisplayNames":"{{\"dinar\"|\"dinara\"|\"dinara\"}}","Id":21,"Version":1},{"UnitTypeId":9,"Name":"dinara/dnevno","HTMLDisplayName":"din/dan","HTMLNumeralDisplayNames":"{{\"din/dan\"|\"din/dan\"|\"din/dan\"}}","Id":22,"Version":1},{"UnitTypeId":9,"Name":"EUR/mesečno","HTMLDisplayName":"EUR","HTMLNumeralDisplayNames":"{{\"EUR\"|\"EUR\"|\"EUR\"}}","Id":24,"Version":1},{"UnitTypeId":9,"Name":"EUR/po satu","HTMLDisplayName":"EUR/h","HTMLNumeralDisplayNames":"{{\"EUR/h\"|\"EUR/h\"|\"EUR/h\"}}","Id":26,"Version":1},{"UnitTypeId":9,"Name":"dinara/po satu","HTMLDisplayName":"din/h","HTMLNumeralDisplayNames":"{{\"din/h\"|\"din/h\"|\"din/h\"}}","Id":23,"Version":1},{"UnitTypeId":9,"Name":"EUR/dnevno","HTMLDisplayName":"EUR/dan","HTMLNumeralDisplayNames":"{{\"EUR/dan\"|\"EUR/dan\"|\"EUR/dan\"}}","Id":25,"Version":1}],"Id":9003,"Version":2}};
+	function formatAdAttributeUnit (field, unitName, value) {
+		var unitConf = unitsDict[field];
+		if (unitConf) {
+			var units = unitConf.AvailableUnits;
+			for (var u = 0; u < units.length; u++) {
+				if (value == null && units[u].Name == unitName) {
+					return units[u].HTMLDisplayName;
+				}
+				else if (value == '' && units[u].Name == unitName) {
+					return '';
+				}
+				else if (units[u].Name == unitName) {
+					var num = parseInt('' + value);
+					if (!isNaN(num)) {
+						var sNum = '' + num;
+						var key1 = sNum[sNum.length - 1];
+						if (sNum.length > 1)
+							var key2 = sNum[sNum.length - 2] + sNum[sNum.length - 1];
+						if (key2 && pluralsConfig[key2]) {
+							return units[u].HTMLNumeralDisplayNames.replace(/\{\{\"(.+?)\"\|\"(.+?)\"\|\"(.+?)\"\}\}/, '$' + pluralsConfig[key2]);
+						}
+						else {
+							return units[u].HTMLNumeralDisplayNames.replace(/\{\{\"(.+?)\"\|\"(.+?)\"\|\"(.+?)\"\}\}/, '$' + pluralsConfig[key1]);
+						}
+					}
+					else {
+						return '';
+					}
+				}
+			}
+		}
+		else {
+			return unitName;
+		}
+	}
+
+	function getPluralIndex (value) {
+		var num = parseInt('' + value);
+		if (!isNaN(num)) {
+			var sNum = '' + num;
+			var key1 = sNum[sNum.length - 1];
+			if (sNum.length > 1)
+				var key2 = sNum[sNum.length - 2] + sNum[sNum.length - 1];
+			if (key2 && pluralsConfig[key2]) {
+				return pluralsConfig[key2];
+			}
+			else {
+				return pluralsConfig[key1]
+			}
+		}
+		else {
+			return null;
+		}
+	}
+
+	var unitConversions = {"1":{"2":"/100.0","5":"/10000.0","6":"/5760.0"},"2":{"1":"*100.0","5":"/100.0","6":"/57.6"},"3":{"4":"/122.0"},"4":{"3":"*122"},"5":{"1":"*10000.0","2":"*100.0","6":"*0.576"},"6":{"1":"*5760.0","2":"*57.6","5":"/0.576"},"7":{"8":"*1.3596212"},"8":{"7":"/1.3596212"},"9":{"10":"/24.0","11":"/168.0","12":"/5040.0"},"10":{"9":"*24.0","11":"/7.0","12":"/30.0"},"11":{"9":"*168.0","10":"*7.0","12":"/4.0"},"12":{"9":"*5040.0","10":"*30.0","11":"*4.0"},"13":{"14":"/1000.0"},"14":{"13":"*1000.0"},"15":{"16":"/122.0"},"16":{"15":"*122"},"17":{"18":"/1000.0"},"18":{"17":"*1000.0"},"19":{"20":"/1000.0"},"20":{"19":"*1000.0"},"21":{"22":"/22","23":"/176","24":"/124","25":"/2728","26":"/21824"},"22":{"21":"*22","23":"/8","24":"*0.18","25":"/124","26":"/992"},"23":{"21":"*176","22":"*8","24":"*1.42","25":"/15.5","26":"/124"},"24":{"21":"*124","22":"*2728","23":"*21824","25":"/22","26":"/176"},"25":{"21":"*2728","22":"*124","23":"*15.5","24":"*22","26":"/8"},"26":{"21":"*21824","22":"*992","23":"*124","24":"*176","25":"*8"},"27":{"28":"*1"},"28":{"27":"/1"}};
+	function convertToOtherUnits (field, value, unitName) {
+		var unitConf = unitsDict[field];
+		if (unitConf) {
+			var units = unitConf.AvailableUnits;
+			var result = [];
+			var unitId = null;
+			for (var u = 0; u < units.length; u++) {
+				if (units[u].Name == unitName)
+					unitId = units[u].Id;
+			}
+			for (var u = 0; u < units.length; u++) {
+				try {
+					if (units[u].Id != unitId) {
+						result.push({
+							unit: units[u].HTMLDisplayName,
+							value: groupThousands(Math.round(eval(value + unitConversions[unitId][units[u].Id])), 0)
+						});
+					}
+				}
+				catch (e) { }
+			}
+			return result;
+		}
+		else {
+			return [];
+		}
+	}
+
+	function appendValueInOtherUnits (field, value, unitName, parentNode) {
+		var others = convertToOtherUnits(code, classified[code], unit);
+		for (var i = 0; i < others.length; i++) {
+			var u = others[i].unit;
+			var v = others[i].value;
+			var span = document.createElement('span');
+			span.className = 'alt-unit-value';
+			span.innerHTML = v + ' ' + u;
+			parentNode.appendChild(span);
+		}
+	}
+</script>
+<script>
+	
+</script>
+
+
+
+
+
+<div id="divExpired1">
+	<div class="info-box-expired row" id="divExpired1inner">
+		<div class="expired-text col-md-11 col-sm-10">
+			<span class="title">Žao nam je, predmet vašeg interesovanja više nije u ponudi</span>
+			<br />
+			<br />
+			<div class="but-similar">Ali, pogledajte slične oglase</div>&nbsp;&nbsp;&nbsp;<a href="/sport-i-rekreacija/ostala-sportska-oprema">Sport i rekreacija / Ostala sportska oprema</a>
+		</div>
+	</div>
+</div>
+<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+	
+	if (classified.StateId == '101' || classified.StateId == '106')
+		document.getElementById('divExpired1').parentNode.removeChild(document.getElementById('divExpired1'));
+	else
+		document.getElementById('divExpired1inner').style.display = 'block';
+	
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+</script>
+
+
+<div id="divWaitingVerification1">
+	<div class="info-box-expired row" id="divWaitingVerification1inner">
+		<div class="glyphicon glyphicon-exclamation-sign"></div>
+		<div class="expired-text col-md-11 col-sm-10">
+			Oglas čeka korekturu. Molimo za strpljenje.
+		</div>
+	</div>
+</div>
+<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+	
+	if (classified.StateId != '106')
+		document.getElementById('divWaitingVerification1').parentNode.removeChild(document.getElementById('divWaitingVerification1'));
+	else
+		document.getElementById('divWaitingVerification1inner').style.display = 'block';
+	
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+</script>
+
+
+<article class="row product-details-container">
+	<div class="col-md-12">
+		<div class="product-page view-mode theme-blue">
+
+			<div class="product-page-header">
+				<h1 class="product-details-title">
+
+
+
+	<span id="plh1" data-code="Title">Naslov</span>
+	<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+			
+				var multi = false;
+				var code = 'Title';
+				if (!classified[code])
+					var code = 'Title'
+				
+				if (classified[code]) {
+					var unit = classified['Title' + '_s_unit_s'] || '';
+					var el = document.getElementById('plh1');
+					el.innerHTML = classified[code] + ' ' + formatAdAttributeUnit(code, unit, classified[code]);
+					if (multi)
+						appendValueInOtherUnits(code, classified[code], unit, el.parentNode);
+				}
+				else {
+					var child = document.getElementById('plh1');
+					child.parentNode.removeChild(child);
+				}
+			
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+	</script>
+				</h1>
+
+				<div class="product-details-desc">
+				</div>
+					<div class="price-product-detail">
+
+
+
+	<span id="plh2" class="offer-price" data-code="cena">
+		<span class="offer-price-value">1,000.00</span>
+		<span class="offer-price-unit">$</span>
+		<!-- SEO: price is 1000, a number, with locale-specific thousands separator
+	and decimal mark, and the $ character is marked up with the machine-readable code "USD" -->
+	</span>
+		<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+			
+			var multi = false;
+			var code = 'cena_d';
+			var name = 'Cena';
+			if (typeof classified[code] != 'undefined' && classified[code] != null) {
+				var unit = classified[code + '_unit_s'] || '';
+				var el = document.getElementById('plh2');
+				if (code == "cena_d"){
+					var pricePl = el.children[0];
+					var priceUnitPL = el.children[1];
+					var price = groupThousands(classified[code], { scale: 2, scaleIntegers: false });
+					pricePl.innerHTML = price;
+					priceUnitPL.innerHTML = formatAdAttributeUnit(code, unit, classified[code]);
+				}
+				else{
+					el.innerHTML = groupThousands(classified[code], { scale: 2, scaleIntegers: false }) + ' ' + formatAdAttributeUnit(code, unit, classified[code]);
+					if (multi)
+						appendValueInOtherUnits(code, classified[code], unit, el.parentNode);
+				}
+
+				if (name.toLowerCase() == 'cena od'){ //QDT-HACK
+					el.innerHTML = "od " + el.innerHTML;
+				}
+			}
+			else{
+				var el = document.getElementById('plh2');
+				el.parentNode.removeChild(el);
+			}
+			
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+		</script>
+
+
+
+	<span id="plh3" data-code="po_dogovoru">Dogovor</span>
+	<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+				
+					var plh = document.getElementById('plh3');
+					if (!classified['po_dogovoru_b']) {
+						plh.parentNode.removeChild(plh);
+					}
+				
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+	</script>
+
+						<div class="price-shadow">
+							<img src="/Content/assets/frontend/layout/img/price-details-shadow.png" class="img-responsive" style="float:right; height:10px;" aria-hidden="true" role="presentation" />
+						</div>
+						<div class="price-tags">
+						</div>
+					</div>
+				<div class="mobile-contact-div" style="display: none">
+					<a class="btn-main mobile-contact-btn"><img src="/Content/Quiddita/Widgets/Product/Stylesheets/img/kon-button-icon-small.png" />Kontaktirajte oglašivača</a>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="product-image-section">
+				
+
+
+<script type="text/javascript">
+	function getImageObjectAt(index) {
+		if (!classified.ImageURLs || !classified.ImageURLs[index]) return null;
+		return {
+			org: QuidditaEnvironment.imageRootUrl + classified.ImageURLs[index],
+			src: QuidditaEnvironment.imageRootUrl + classified.ImageURLs[index].replace(/Originals\/([0-9]*)\//, 'Thumbs/$1/l/'),
+			alt: classified.ImageTexts != null && classified.ImageTexts.length > index ? classified.ImageTexts[index] : classified.Title,
+			title: classified.ImageTexts[index]
+		};
+	}
+</script>
+
+	<div class="col-md-6 col-sm-12 print-hide">
+
+		<div id="blockUI-blockMsg-blockElement" class="blockUI blockMsg blockElement">
+			<div class="loading-message">
+				<img align="" src="/Content/assets/global/img/refreshing64.gif"><span>&nbsp;&nbsp;Učitavanje...</span>
+			</div>
+		</div>
+
+		<div class="col-md-12 product-images">
+
+			<div id="plh4"></div>
+			<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+				
+				var instances = QuidditaEnvironment.CurrentClassifiedInstances;
+				if (instances) {
+					instances.sort(function (a, b) {
+						if (parseInt(a.AdKindId) > parseInt(b.AdKindId)) return -1;
+						if (parseInt(a.AdKindId) < parseInt(b.AdKindId)) return 1;
+						return 0;
+					});
+				}
+
+				var dict = {
+					3: 'top-sticker',
+					4: 'premium-sticker'
+				};
+
+				var kid;
+				if (QuidditaEnvironment && typeof QuidditaEnvironment.getURLParameter == 'function')
+					kid = QuidditaEnvironment.getURLParameter('kid');
+
+				if (kid) {
+					if (dict[kid])
+						document.getElementById('plh4').setAttribute('class', dict[kid]);
+				}
+				else if (instances[0] && instances[0].AdKindId && dict[instances[0].AdKindId]) {
+					document.getElementById('plh4').setAttribute('class', dict[instances[0].AdKindId]);
+				}
+				
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+			</script>
+
+			<div id="plh5">
+				<img style="width:100%; height:100%" src="/Content/Quiddita/Widgets/Product/Stylesheets/img/no-image.jpg" alt="no image" class="img-responsive">
+			</div>
+			<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+				
+				if ((classified.ImageURLs instanceof Array && classified.ImageURLs.length != 0) || classified.VideoUrl || classified.prikaz_3d_nekretnine_s) {
+					document.getElementById('plh5').parentNode.removeChild(document.getElementById('plh5'));
+				} else {
+					// show only if there is no video and 0 images and no 3D
+				}
+				
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+			</script>
+
+			<script>
+				blockFotoramaData = true;
+			</script>
+			<div class="product-images">
+				<div id="fotorama" class="fotorama fotorama-hidden"
+					 data-arrows="always" data-click="false" data-swipe="true" data-nav="thumbs" data-allowfullscreen="true" data-loop="true"
+					 data-autoplay="3000" data-keyboard="false" data-width="100%" data-height="290px" data-trackpad="true" data-auto="false">
+				</div>
+			</div>
+
+			<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+
+				(function () {
+					var divFotorama = document.getElementById('fotorama');
+					var index = 0;
+
+					if (!classified.prikaz_3d_nekretnine_s &&
+					(classified.ImageURLs == null || classified.ImageURLs.length <= 0) &&
+					!classified.VideoUrl) {
+						document.getElementById("blockUI-blockMsg-blockElement").parentNode.removeChild(document.getElementById("blockUI-blockMsg-blockElement"));
+						divFotorama.parentNode.removeChild(divFotorama);
+						return;
+					}
+
+					// add 3D
+					if (classified.prikaz_3d_nekretnine_s) {
+						var anchor = document.createElement('a');
+						anchor.setAttribute('href', classified.prikaz_3d_nekretnine_s);
+						anchor.setAttribute('data-video', true);
+
+						var imgCover = document.createElement('img');
+						imgCover.setAttribute('src', '/Content/Quiddita/Widgets/Product/Stylesheets/img/3d-smallimage-halo-oglasi.jpg');
+
+						anchor.appendChild(imgCover);
+						divFotorama.appendChild(anchor);
+					}
+
+					// add images
+					do {
+						imgObj = getImageObjectAt(index++);
+						if (imgObj == null) break;
+
+						var imgAttributes = {
+							'class': 'img-responsive',
+							'src': imgObj.src.replace('/l/', '/m/'),
+							'alt': imgObj.alt,
+							'title': 'Povećajte fotografiju',
+							'itemprop': 'image',
+							'onError': "this.onerror = null; this.src='/Content/Quiddita/Widgets/Product/Stylesheets/img/no-image.jpg';",
+							'data-full': imgObj.src
+							//'data-caption': imgObj.title
+						};
+
+						var title = imgObj.title;
+						if (title != null && title != '' && title != "XML imported image")
+							imgAttributes['data-caption'] = title;
+
+						var imgEl = document.createElement('img');
+						for (var key in imgAttributes)
+							imgEl.setAttribute(key, imgAttributes[key]);
+
+						divFotorama.appendChild(imgEl);
+					} while ((imgObj != null));
+
+					// add video
+					if (classified.VideoUrl) {
+						var videoUrl = classified.VideoUrl;
+						if (videoUrl.indexOf('/shorts/') > -1)
+							videoUrl = videoUrl.replace(/(?:https:\/\/)?(?:www\.)?(?:youtube\.com|youtu\.be)\/(?:shorts\/)?(.+)/g, 'https://www.youtube.com/embed/$1');
+
+						var anchor = document.createElement('a');
+						anchor.setAttribute('href', videoUrl);
+						anchor.setAttribute('data-video', true);
+						divFotorama.appendChild(anchor);
+					}
+
+					if (divFotorama.childElementCount == 1)
+						document.getElementById("blockUI-blockMsg-blockElement").style.height = '290px';
+
+					//document.getElementById('fotorama').style.display = '';
+				})();
+			</script>
+			<script src="/Scripts/fotoramaGallery.js?ver=1.1.2212.1.j"></script>
+		</div>
+
+		<div class="col-md-12 charity-product-footer" style="display:none;">
+			<div class="charity-product-footer-logo">
+				<img src="/Content/Quiddita/Widgets/Product/Stylesheets/img/i-ja-se-borim-logo-oglas.png" />
+			</div>
+			<div class="charity-product-footer-body">
+				<h3>Humanitarni oglas</h3>
+				<p>Novac od prodaje ovog predmeta biće uplaćen za izgradnju dečjeg hemato-onkološkog odeljenja u Nišu. Kupovinom ovog predmeta podržavate akciju "Oglasi za život". Hvala!</p>
+				<a class="charity-product-footer-link" href="http://www.oglasizazivot.rs/" target="_blank">
+					<img src="/Content/Quiddita/Widgets/Product/Stylesheets/img/dugme-saznaj-vise.png" />
+				</a>
+				<p>Predmet iz ovog oglasa biće isporučen od strane dostavne službe <a class="courier-link" href="http://cityexpress.rs/en/" target="_blank">City Express</a> ili <a class="courier-link" href="http://www.makart.rs/" target="_blank">Makart</a> po <strong>promotivnim</strong> cenama:</p>
+				<table cellspacing="0" border="1" bordercolor="#d7e4d8" bgcolor="#f1fbf2">
+					<tr bgcolor="#FFFFFF">
+						<td>Težina pošiljke</td>
+						<td>Cena sa PDV-om</td>
+					</tr>
+					<tr>
+						<td>Do 5 kg</td>
+						<td class="charity-table-price">240 dinara</td>
+					</tr>
+					<tr>
+						<td>Od 5 do 15 kg</td>
+						<td class="charity-table-price">360 dinara</td>
+					</tr>
+					<tr>
+						<td>Od 15 do 30 kg</td>
+						<td class="charity-table-price">480 dinara</td>
+					</tr>
+				</table>
+				<p style="font-size: 11px;">* Za pošiljke većih gabarita pozovite 0800-3093000 (poziv je besplatan)</p>
+			</div>
+			<div style="clear:both;"></div>
+		</div>
+	</div>
+
+
+				<div class="col-md-6 col-sm-12 print-full-width">
+					<ul class="icons-bar pull-right">
+						<li class="send-to-friend"><a href="#" class="email-icon prevent tipso-details" data-tipso="Pošalji prijatelju."></a></li>
+						<li><a href="#" onclick="window.print()" class="print-icon prevent tipso-details" data-tipso="Odštampaj."></a></li>
+						<li class="report-action"><a href="#" class="report-icon prevent tipso-details" data-tipso="Prijavi nepravilnost."></a></li>
+						<li><a href="#" class="favorite-icon fav-cmd prevent tipso-details" data-tipso="Dodaj u izabrane."></a></li>
+					</ul>
+					<div class="clear"></div>
+					
+
+
+
+					<div class="product-page-content-extra">
+						<div class="row">
+
+						</div>
+						<div class="datasheet product-basic-details">
+								<div id="d1" class="hidden">
+									<div class="out-of-place-advertiser-info">
+										<div class="place-border">
+											<div class="col-sm-2 contact-label">Mesto</div>
+											<div class="col-sm-10 bold-15 contact-advertiser-details">
+
+
+<span id="plh6"></span>
+
+	<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+			
+				if (classified['grad_s'] != null) {
+					document.getElementById('plh6').innerHTML = classified['grad_s'];
+				}
+				else {
+					document.getElementById('plh6').innerHTML = '-';
+				}
+			
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+	</script>
+</div>
+											<div class="clear"></div>
+										</div>
+									</div>
+								</div>
+								<script>
+var fields = QuidditaEnvironment.CurrentClassified;
+var codes = ['grad'];
+
+				var destroy = true;
+				for (var i = 0; i < codes.length; i++) {
+					var code = codes[i];
+					if (
+						classified[code] ||
+						classified[code + '_b'] || classified[code + '_i'] != null || classified[code + '_d'] != null || classified[code + '_t'] != null ||
+						classified[code + '_dt'] != null || classified[code + '_s'] || classified[code + '_ss'] instanceof Array && classified[code + '_ss'].length > 0
+					) {
+						destroy = false;
+						break;
+					}
+				}
+				if (destroy || fields.EnclosureFilePath) {
+					document.getElementById('d1').parentNode.removeChild(document.getElementById('d1'));
+				}
+			
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+								</script>
+															<div class="basic-view" id="d2">
+									<div class="row">
+											<div class="col-md-12 datasheet-features-type not-bold">
+
+
+<span id="plh7"></span>
+
+	<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+			
+				var multi = false;
+				var code = 'TextHtml';
+				if (!classified[code])
+					code = 'TextHtml';
+				var el = document.getElementById('plh7');
+
+				if (classified[code] != null) {
+					var unit = classified['TextHtml' + '_s_unit_s'] || '';
+					if(code == "web_sajt_s" || code == "web_sajt_t")
+					{
+						var a = document.createElement('a');
+						var linkText = document.createTextNode(classified[code]);
+						a.appendChild(linkText);
+						if(classified[code].indexOf("http") == -1)
+						{
+							a.href = "http://" + classified[code];
+						}
+						else
+						{
+							a.href = classified[code];
+						}
+						a.target = "_blank";
+						el.appendChild(a);
+					}
+					else
+					{
+						el.innerHTML = classified[code] + ' ' + formatAdAttributeUnit(code, unit, classified[code]);
+					}
+
+					if (multi)
+						appendValueInOtherUnits(code, classified[code], unit, el.parentNode);
+				}
+				else {
+					el.innerHTML = '-';
+				}
+			
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+	</script>
+</div>
+									</div>
+									<script>
+var fields = QuidditaEnvironment.CurrentClassified;
+var codes = ['TextHtml'];
+
+				var destroy = true;
+				for (var i = 0; i < codes.length; i++) {
+					var code = codes[i];
+					if (
+						classified[code] ||
+						classified[code + '_b'] || classified[code + '_i'] != null || classified[code + '_d'] != null || classified[code + '_t'] != null ||
+						classified[code + '_dt'] != null || classified[code + '_s'] || classified[code + '_ss'] instanceof Array && classified[code + '_ss'].length > 0
+					) {
+						destroy = false;
+						break;
+					}
+				}
+				if (destroy || fields.EnclosureFilePath) {
+					document.getElementById('d2').parentNode.removeChild(document.getElementById('d2'));
+				}
+			
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+									</script>
+								</div>
+								<div class="basic-view" id="d3">
+									<div class="row">
+											<div class="col-lg-5 col-md-5">Stanje</div>
+											<div class="col-lg-7 col-md-7 datasheet-features-type">
+
+
+<span id="plh8"></span>
+
+	<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+			
+				if (classified['stanje_s'] != null) {
+					document.getElementById('plh8').innerHTML = classified['stanje_s'];
+				}
+				else {
+					document.getElementById('plh8').innerHTML = '-';
+				}
+			
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+	</script>
+</div>
+									</div>
+									<script>
+var fields = QuidditaEnvironment.CurrentClassified;
+var codes = ['stanje'];
+
+				var destroy = true;
+				for (var i = 0; i < codes.length; i++) {
+					var code = codes[i];
+					if (
+						classified[code] ||
+						classified[code + '_b'] || classified[code + '_i'] != null || classified[code + '_d'] != null || classified[code + '_t'] != null ||
+						classified[code + '_dt'] != null || classified[code + '_s'] || classified[code + '_ss'] instanceof Array && classified[code + '_ss'].length > 0
+					) {
+						destroy = false;
+						break;
+					}
+				}
+				if (destroy || fields.EnclosureFilePath) {
+					document.getElementById('d3').parentNode.removeChild(document.getElementById('d3'));
+				}
+			
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+									</script>
+								</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+
+			</div>
+			<div class="clear"></div>
+			<div class="product-page-content-extra">
+				<ul id="attributeGroupTab" class="nav nav-tabs attribute-groups map-display-tab">
+					
+					<li class="active destroy-map-not-visible"><a href="#mapDisplay" data-toggle="tab"> <span class="glyphicon-map-marker glyphicon green"></span> Prikaz mape</a></li>
+					
+				</ul>
+				<hr class="border-hide" />
+				<div id="attributeGroupTabContent" class="tab-content">
+
+					<div id="mapDisplay" class="destroy-map-not-visible screen-only tab-pane fade active in" data-maptype="OpenStreetMap" data-initialized="false" data-initialize-on-click="true">
+							<div id="open-street-map" style="display: none; position: relative; width: 100%; height: 400px; border: none;"></div>
+						<div class="clear"></div>
+					</div>
+					<div class="clear"></div>
+				</div>
+
+					<div id="adoceanrssknlptdnrk"></div>
+					<script type="text/javascript">
+						/* (c)AdOcean 2003-2020, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.Kreditni kalkulator */
+						ado.slave('adoceanrssknlptdnrk', { myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });
+					</script>
+
+			</div>
+
+			
+
+<script>
+	
+</script>
+
+
+<div id="divAdvBottom1" class="advertiser-info-bottom" style="display:none">
+	<h4>Kontakt</h4>
+	<div class="row advertiser-info-flex">
+		<div class="basic-info col-xs-5 col-md-4 col-lg-4">
+			<div id="plh10" class="contact-name"></div>
+			<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+				
+				document.getElementById('plh10').innerHTML = Model.Advertiser.DisplayName;
+				
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+			</script>
+
+			<div id="plh11"></div>
+			<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+				
+				if (Model.AvatarUrl) {
+					document.getElementById('plh11').innerHTML = '<div class="logo-advertiser"><img src="' + Model.AvatarUrl + '" alt="Logo oglasivaca" class="img-responsive" /></div>';
+				}
+				
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+			</script>
+
+			<div id="plh12"></div>
+			<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+				
+				if (Model.Advertiser.IsInvestor) {
+					var innerHtml = '<p class="investor-products hide-info"><a href="#" class="prevent">investitor</a></p>';
+					if (Model.ShowMyAdsPage)
+						innerHtml = innerHtml + '<div class="all-products-advertiser hide-info all-investor-products-link"><a href="/' + Model.InvestorRoute + '">Pogledajte profil investitora</a></div>';
+
+					document.getElementById('plh12').innerHTML = innerHtml;
+				}
+				
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+			</script>
+
+			<div id="plh13"></div>
+			<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+				
+				if (Model.ShowMyAdsPage && Model.UserAdsRoute && !Model.Advertiser.IsSchool && !Model.Advertiser.IsInvestor) {
+					document.getElementById('plh13').innerHTML = '<div class="others-products see-other-user-products hide-info"><a href="/' + Model.UserAdsRoute + '">Pogledajte sve oglase ovog oglašivača</a></div>';
+				}
+				
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+			</script>
+		</div>
+
+		<div class="contact-info col-xs-7 col-md-5 col-lg-4">
+			<div id="adAdvertiserInfoBottomBody">
+				<div class="row address-row">
+					<div class="col-sm-3">
+						Ulica
+					</div>
+					<div class="col-sm-9 bold-15 contact-advertiser-details" id="plh14"></div>
+					<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+						
+						if (Model.Address)
+							document.getElementById('plh14').innerHTML = Model.Address;
+						else
+							document.getElementById('plh14').parentNode.empty(); //We've overriden this on the prototype.
+						
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+					</script>
+				</div>
+				<div class="row city-row">
+					<div class="col-sm-3">Mesto</div>
+					<div class="col-sm-9 bold-15 contact-advertiser-details" id="plh15"></div>
+					<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+						
+						if (Model.City)
+							document.getElementById('plh15').innerHTML = Model.City;
+						else
+							document.getElementById('plh15').parentNode.empty();
+						
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+					</script>
+				</div>
+				
+				<div class="row phone-numbers">
+					<div class="col-sm-3 contact-label">Tel 1</div>
+					<div class="col-sm-9 bold-15 contact-advertiser-details bottom-phone-1" id="plh16"></div>
+					<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+						
+						if (Model.PhoneNumber1 && Model.ShowContactPhone){
+							var div = document.createElement('div');
+							div.className = "phone-div";
+							div.innerHTML = "<p class='show-phone-numbers'><img src='/Content/Quiddita/Widgets/Product/Stylesheets/img/contact-hiden-number.png'></img><span class='show-phone-span'><em>Klik za prikaz telefona</em></span></p>";
+							document.getElementById('plh16').appendChild(div);
+						}
+						else
+							document.getElementById('plh16').parentNode.empty();
+						
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+					</script>
+				</div>
+				<div class="row phone-numbers">
+					<div class="col-sm-3 contact-label">Tel 2</div>
+					<div class="col-sm-9 bold-15 contact-advertiser-details bottom-phone-2" id="plh17"></div>
+					<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+						
+						if (Model.PhoneNumber2 && Model.ShowContactPhone){
+							var div = document.createElement('div');
+							div.className = "phone-div";
+							div.innerHTML = "<p class='show-phone-numbers'><img src='/Content/Quiddita/Widgets/Product/Stylesheets/img/contact-hiden-number.png'></img><span class='show-phone-span'><em>Klik za prikaz telefona</em></span></p>";
+							document.getElementById('plh17').appendChild(div);
+						}
+						else
+							document.getElementById('plh17').parentNode.empty();
+						
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+					</script>
+				</div>
+				<div class="row">
+					<div class="col-sm-3">Reg.br.</div>
+					<div class="col-sm-9 bold-15 contact-advertiser-details" id="plh18"></div>
+					<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+						
+						if (Model.NumberInRegister)
+							document.getElementById('plh18').innerHTML = Model.NumberInRegister;
+						else
+							document.getElementById('plh18').parentNode.empty();
+						
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+					</script>
+				</div>
+				<div class="row">
+					<div class="col-sm-3">Web</div>
+					<div class="col-sm-9 bold-15 contact-advertiser-details" id="plh19"></div>
+					<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+						
+						if (Model.WebAddress)
+							document.getElementById('plh19').innerHTML =
+								'<a target="_blank" class="web-adress" href="' +
+								Model.WebAddress + '">' +
+								Model.WebAddress.replace(/https?:\/\//gi, "").replace(/\/$/, "") +
+								'</a>';
+						else
+							document.getElementById('plh19').parentNode.empty();
+						
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+					</script>
+				</div>
+			</div>
+			<div class="extra-store-bottom" style="display: none;">
+				<a href="#" class="show-other-contacts-bottom prevent">SVE POSLOVNICE</a>
+			</div>
+		</div>
+		
+		<div id="bottom-contact-button-wrapper" class="contact-controls hidden">
+			<button class="btn-main" type="button" id="contact-advertiser-bottom-button">Pošaljite poruku oglašivaču</button>
+		</div>
+
+		<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+			
+			var body = document.getElementsByTagName('body')[0];
+			var hierarchy = body.attributes['data-page-category-hierarchy-id'].value.split('.');
+			var jobs = body.className.indexOf('jobs') > -1 && hierarchy[1] != 2901; // jobs, but not education
+
+			if (Model.Email && !jobs)
+				document.getElementById('bottom-contact-button-wrapper').className = "contact-controls col-xs-12 col-md-3 col-lg-4"; // remove hidden
+			else
+				document.getElementById('bottom-contact-button-wrapper').parentNode.removeChild(document.getElementById('bottom-contact-button-wrapper'));
+			
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+		</script>
+		<div class="clear"></div>
+	</div>
+
+	<script id="other-contacts-bottom-template" type="text/x-handlebars-template">
+		<div class="other-contacts-bottom row" style="display: none;">
+			<div class="col-md-offset-4 col-md-4 col-md-offset-4">
+				{{#each Contacts}}
+				<div class="contact-info">
+					{{#if Address}}
+					<div class="row">
+						<div class="col-sm-3">Ulica</div>
+						<div class="col-sm-9">{{Address}}</div>
+					</div>
+					{{/if}}
+					{{#if City}}
+					<div class="row">
+						<div class="col-sm-3">Mesto</div>
+						<div class="col-sm-9">{{City}}</div>
+					</div>
+					{{/if}}
+					{{#if Phone1}}
+					<div class="row">
+						<div class="col-sm-3">Tel 1</div>
+						<div class="col-sm-9 other-phone-1" data-contact-id="{{Id}}"><p class="show-other-phone-numbers" data-contact-id="{{Id}}">Klik za prikaz telefona</p></div>
+					</div>
+					{{/if}}
+					{{#if Phone2}}
+					<div class="row">
+						<div class="col-sm-3">Tel 2</div>
+						<div class="col-sm-9 other-phone-2" data-contact-id="{{Id}}"><p class="show-other-phone-numbers" data-contact-id="{{Id}}">Klik za prikaz telefona</p></div>
+					</div>
+					{{/if}}
+				</div>
+				{{/each}}
+			</div>
+		</div>
+	</script>
+
+</div>
+
+<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+	
+	if (!QuidditaEnvironment.IsCurrentAdActive) {
+		var node = document.getElementById('divAdvBottom1');
+		node.parentNode.removeChild(node); // Check if nothing else is broken, can revert to node.parentNode and wrap bottom info inside a div
+	}
+	
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+</script>
+
+
+
+
+			<div class="pictures-only">
+				<p class="image-title-print">Fotografije</p>
+				<div class="print-images print-only">
+				</div>
+				<script id="printImagesTemplate" type="text/x-handlebars-template">
+					{{#each Images}}
+					<div class="print-image-container">
+						<img src='{{Image Url "l"}}' alt="{{Title}}" class="thumb-img img-responsive" onError="this.onerror = null; this.src = '/Content/Quiddita/Widgets/Product/Stylesheets/img/no-image.jpg';" />
+					</div>
+					{{/each}}
+					<div class="clear"></div>
+				</script>
+			</div>
+		</div>
+	</div>
+
+	<iframe id="rtbIframe" src="#" width="1" height="1" scrolling="no" frameBorder="0" style="display: none;"></iframe>
+	<script>
+		var iframeSrc = 'https://creativecdn.com/tags?id=pr_gMZA24wb4Ke4G1qGs6e7_offer_' + classified.Id;
+		document.getElementById('rtbIframe').src = iframeSrc;
+	</script>
+</article>
+
+
+<div id="divExpired2" class="row">
+	<div class="col-md-12">
+		<div class="icons-bellow-info-widget">
+			<ul>
+				<li class="send-to-friend"><a href="#" class="prevent"><span class="email-icon"></span> <b>Pošalji prijatelju</b></a></li>
+				<li><a href="#" onclick="window.print()" class="prevent"><span class="print-icon"></span> <b>Odštampaj</b></a></li>
+				<li class="report-action"><a href="#" class="prevent"><span class="report-icon"></span> <b>Prijavi nepravilnost</b></a></li>
+				<li><a class="fav-cmd prevent" href="#"><span class="favorite-icon"></span> <b>Dodaj u izabrane</b></a></li>
+			</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="col-md-12">
+		<div class="social">
+			<div id="facebook-like-div" class="fb-like" data-href="" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true" data-lazy="true"></div>
+			<a class="twitter-share-button" href="https://twitter.com/share"> Tweet </a>
+		</div>
+	</div>
+	<script>
+		document.getElementById('facebook-like-div').setAttribute('data-href', window.location.href);
+	</script>
+</div>
+<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+	
+		var isMobileDevice = (' ' + document.body.className + ' ').indexOf(' qmobile-device ') > -1;
+		if (classified.StateId != '101') {
+			document.getElementById('divExpired2').parentNode.removeChild(document.getElementById('divExpired2'));
+		}
+		else if (isMobileDevice) {
+			setTimeout(function () {
+				var refNode = document.getElementById('divExpired2');
+				var sourceNode = document.getElementsByClassName('advertiser-info-right')[0];
+				if (sourceNode != null)
+					refNode.parentNode.insertBefore(sourceNode, refNode);
+
+				sourceNode = document.getElementsByClassName('ad-basic-info-widget')[0];
+				if (sourceNode != null)
+					refNode.parentNode.insertBefore(sourceNode, refNode);
+			}, 1000);
+		}
+	
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+</script>
+
+<div class="row">
+	<div class="similar-products-wrapper col-md-12" style="display: none;">
+		<p class="similar-products-title">Pogledajte slične oglase</p>
+		<div id="similarProductsCarousel" class="row">
+			<div class="jcarousel-wrapper jcarousel-wrapper-style" style="overflow:hidden;">
+				<a href="#" class="jcarousel-control-prev prev-arrow prevent"></a>
+				<a href="#" class="jcarousel-control-next next-arrow prevent"></a>
+				<div class="jcarousel horizontal-jcarousel-box jcarousel-style" style="height:252px !important;">
+					<ul class="listitems" style="width:100000px;">
+					</ul>
+					<div class="clear"></div>
+				</div>
+				<p class="jcarousel-pagination" data-jcarouselpagination="true" style="margin-top: 13px;"></p>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div id="divExpired3">
+	<div class="info-box-expired info-box-expired-bottom row" id="divExpired3inner">
+		<div class="expired-text col-md-11 col-sm-10">
+			<span class="title">Žao nam je, predmet vašeg interesovanja više nije u ponudi</span>
+			<br />
+			<br />
+			<div class="but-similar">Ali, pogledajte slične oglase</div>&nbsp;&nbsp;&nbsp;<a href="/sport-i-rekreacija/ostala-sportska-oprema">Sport i rekreacija / Ostala sportska oprema</a>
+		</div>
+	</div>
+</div>
+<script>
+var classified = QuidditaEnvironment.CurrentClassified; classified.History = QuidditaEnvironment.CurrentClassifiedHistory; classified.Instances = QuidditaEnvironment.CurrentClassifiedInstances;
+	
+	if (classified.StateId == '101' || classified.StateId == '106')
+		document.getElementById('divExpired3').parentNode.removeChild(document.getElementById('divExpired3'));
+	else
+		document.getElementById('divExpired3inner').style.display = 'block';
+	
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+</script>
+
+<div class="rtb-house-div">
+	<iframe src="" width="1" height="1" scrolling="no" frameBorder="0" style="display: none;"></iframe>
+</div>
+
+
+
+	</div>
+	<div data-widget-template-id="2700" class="widget-banner-zone widget-banner-zone-bad AdHere banner-bad-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrsunjneoetlg"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2017, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.ConnectAd detalji oglasa 300x250 */ado.slave('adoceanrsunjneoetlg', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+</section>
+			<aside class="right-content fleft" data-zone="sidebar-right" role="complementary">
+	<div data-widget-template-id="32" class="advertiser-info advertiser-info-right advertiser-info-right-1">
+		
+
+<script>
+	
+</script>
+
+<div id="mobile-contact-scroll-dest"></div>
+
+
+<div id="divAdv1">
+	<div class="grey-part-border"></div>
+	<span class="info-arrow"></span>
+	<div class="basic-info">
+		<h4>Kontakt</h4>
+		<div id="plh20" class="contact-name"></div>
+		<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+				
+					document.getElementById('plh20').innerHTML = Model.Advertiser.DisplayName;
+				
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+		</script>
+
+		<div id="plh21"></div>
+		<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+				
+					if (Model.AvatarUrl) {
+						document.getElementById('plh21').innerHTML = '<div class="logo-advertiser"><center><img src="' + Model.AvatarUrl + '" alt="Logo oglasivaca" class="img-responsive" /></center></div>';
+					}
+				
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+		</script>
+
+		<div id="plh22"></div>
+		<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+			
+			if (Model.Advertiser && Model.Advertiser.IsInvestor) {
+				var innerHtml = '<p class="investor-products hide-info"><a href="#" class="prevent">investitor</a></p>';
+				if (Model.ShowMyAdsPage)
+					innerHtml = innerHtml + '<div class="all-products-advertiser hide-info all-investor-products-link"><a href="/' + Model.InvestorRoute + '">Pogledajte profil investitora</a></div>';
+
+				document.getElementById('plh22').innerHTML = innerHtml;
+			}
+			
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+		</script>
+
+		<div id="plh23"></div>
+		<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+			
+			if (Model.ShowMyAdsPage && Model.UserAdsRoute && Model.Advertiser && !Model.Advertiser.IsSchool && !Model.Advertiser.IsInvestor) {
+				document.getElementById('plh23').innerHTML = '<div class="others-products see-other-user-products hide-info"><a href="/' + Model.UserAdsRoute + '">Pogledajte sve oglase ovog oglašivača</a></div>';
+			}
+			
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+		</script>
+	</div>
+
+	<div class="contact-info">
+		<div id="adAdvertiserInfoBody">
+			<div class="row address-row">
+				<div class="col-sm-2 contact-label">
+					Ulica
+				</div>
+				<div class="col-sm-10 bold-15 contact-advertiser-details" id="plh24"></div>
+				<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+					
+					if (Model.Address)
+						document.getElementById('plh24').innerHTML = Model.Address;
+					else
+						document.getElementById('plh24').parentNode.empty(); //We've overriden this on the prototype.
+					
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+				</script>
+			</div>
+			<div class="row city-row">
+				<div class="col-sm-2 contact-label">Mesto</div>
+				<div class="col-sm-10 bold-15 contact-advertiser-details" id="plh25"></div>
+				<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+					
+					if (Model.City)
+						document.getElementById('plh25').innerHTML = Model.City;
+					else
+						document.getElementById('plh25').parentNode.empty();
+					
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+				</script>
+			</div>
+
+			<div class="row phone-numbers">
+				<div class="col-sm-2 contact-label">Tel 1</div>
+				<div class="col-sm-10 bold-15 contact-advertiser-details right-phone-1" id="plh26"></div>
+				<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+						
+						if (Model.PhoneNumber1 && Model.ShowContactPhone){
+							var div = document.createElement('div');
+							div.className = "phone-div";
+							div.innerHTML = "<p class='show-phone-numbers'><img src='/Content/Quiddita/Widgets/Product/Stylesheets/img/contact-hiden-number.png'></img><span class='show-phone-span'><em>Klik za prikaz telefona</em></span></p>";
+							document.getElementById('plh26').appendChild(div);
+						}
+						else
+							document.getElementById('plh26').parentNode.empty();
+						
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+				</script>
+			</div>
+			<div class="row phone-numbers">
+				<div class="col-sm-2 contact-label">Tel 2</div>
+				<div class="col-sm-10 bold-15 contact-advertiser-details right-phone-2" id="plh27"></div>
+				<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+						
+						if (Model.PhoneNumber2 && Model.ShowContactPhone){
+							var div = document.createElement('div');
+							div.className = "phone-div";
+							div.innerHTML = "<p class='show-phone-numbers'><img src='/Content/Quiddita/Widgets/Product/Stylesheets/img/contact-hiden-number.png'></img><span class='show-phone-span'><em>Klik za prikaz telefona</em></span></p>";
+							document.getElementById('plh27').appendChild(div);
+						}
+						else
+							document.getElementById('plh27').parentNode.empty();
+						
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+				</script>
+			</div>
+			<div class="row">
+				<div class="col-sm-2 contact-label">Reg.br.</div>
+				<div class="col-sm-10 bold-15 contact-advertiser-details" id="plh28"></div>
+				<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+							
+							if (Model.NumberInRegister)
+								document.getElementById('plh28').innerHTML = Model.NumberInRegister;
+							else
+								document.getElementById('plh28').parentNode.empty();
+							
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+				</script>
+			</div>
+			<div class="row">
+				<div class="col-sm-2 contact-label">Web</div>
+				<div class="col-sm-9 bold-15 contact-advertiser-details" id="plh29"></div>
+				<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+							
+								if (Model.WebAddress)
+									document.getElementById('plh29').innerHTML =
+										'<a target="_blank" class="web-adress" href="' +
+										Model.WebAddress + '">' +
+										Model.WebAddress.replace(/https?:\/\//gi, "").replace(/\/$/, "") +
+										'</a>';
+								else
+									document.getElementById('plh29').parentNode.empty();
+							
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+				</script>
+			</div>
+		</div>
+	</div>
+
+	<script>
+		var arr = document.getElementsByClassName('out-of-place-advertiser-info');
+		var body = document.getElementById('adAdvertiserInfoBody');
+		for (var i = 0; i < arr.length; i++) {
+			body.insertBefore(arr[i], body.lastChild);
+		}
+	</script>
+
+	<script id="other-contacts-template" type="text/x-handlebars-template">
+		<div class="extra-store">
+			<a href="#" class="show-other-contacts prevent">SVE POSLOVNICE</a>
+		</div>
+		<div class="other-contacts" style="display: none;">
+			{{#each Contacts}}
+			<div class="contact-info">
+				{{#if Address}}
+				<div class="row">
+					<div class="col-sm-3">Ulica</div>
+					<div class="col-sm-9">{{Address}}</div>
+				</div>
+				{{/if}}
+				{{#if City}}
+				<div class="row">
+					<div class="col-sm-3">Mesto</div>
+					<div class="col-sm-9">{{City}}</div>
+				</div>
+				{{/if}}
+				{{#if Phone1}}
+				<div class="row">
+					<div class="col-sm-3">Tel 1</div>
+					<div class="col-sm-9 other-phone-1" data-contact-id="{{Id}}"><p class="show-other-phone-numbers" data-contact-id="{{Id}}">Klik za prikaz telefona</p></div>
+				</div>
+				{{/if}}
+				{{#if Phone2}}
+				<div class="row">
+					<div class="col-sm-3">Tel 2</div>
+					<div class="col-sm-9 other-phone-2" data-contact-id="{{Id}}"><p class="show-other-phone-numbers" data-contact-id="{{Id}}">Klik za prikaz telefona</p></div>
+				</div>
+				{{/if}}
+			</div>
+			{{/each}}
+		</div>
+	</script>
+
+	<div id="contact-info-planplus-map-div" style="display: none;">
+		<div id="contact-info-planplus-map" style="display: none; position:relative; width: 100%; height:150px; border:none;"></div>
+	</div>
+	<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+		
+			var preparedClassName = ' ' + document.body.className + ' ';
+			var isAdDetailsPage = preparedClassName.indexOf(' cpc-BasicAdDetails ') > -1;
+			var isRealEstateCat = preparedClassName.indexOf(' real-estates ') > -1;
+			if (!(isAdDetailsPage && isRealEstateCat) && Model.Latitudes.length > 0 && Model.Longitudes.length > 0)
+				document.getElementById('contact-info-planplus-map-div').style.display = "block";
+			else
+				document.getElementById('contact-info-planplus-map-div').empty();
+		
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+	</script>
+
+	<div id="contact-button-wrapper" class="contact-controls hidden">
+		<button class="btn-main" type="button" id="contact-advertiser-button">Pošaljite poruku oglašivaču</button>
+	</div>
+
+	<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+		
+		var body = document.getElementsByTagName('body')[0];
+		var hierarchy = body.attributes['data-page-category-hierarchy-id'].value.split('.');
+		var jobs = body.className.indexOf('jobs') > -1 && hierarchy[1] != 2901; // jobs, but not education
+
+		if (Model.Email && !jobs)
+			document.getElementById('contact-button-wrapper').className = "contact-controls"; // remove hidden
+		else
+			document.getElementById('contact-button-wrapper').parentNode.removeChild(document.getElementById('contact-button-wrapper'));
+		
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+	</script>
+	<div class="clear"></div>
+</div>
+
+<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+	
+	if (!QuidditaEnvironment.IsCurrentAdActive) {
+		var node = document.getElementById('divAdv1');
+		node.parentNode.parentNode.removeChild(node.parentNode);
+	}
+	
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+</script>
+
+
+
+
+
+	</div>
+	<div data-widget-template-id="76" class="ad-basic-info-widget ad-basic-info-widget ad-basic-info-item">
+		
+<script>
+	QuidditaEnvironment.CurrentBasicClassifiedInfo={"Šifra oglasa na sajtu":"5425635280408","Šifra oglasa u agenciji":"","Objavljen":"09.12.2022. u 02:56"};QuidditaEnvironment.IsCurrentAdActive=true;
+</script>
+
+
+<div id="divAdv2" class="sidebar-info-box">
+	<div class="sidebar-info-box-content">
+		
+
+			<div id="plh300" class="line">
+				<label id="plh31" class="description"><span>Šifra oglasa na sajtu</span>:</label>
+				<script>
+var Model = QuidditaEnvironment.CurrentBasicClassifiedInfo;
+						
+							if (!Model['Šifra oglasa na sajtu'])
+								document.getElementById('plh31').parentNode.removeChild(document.getElementById('plh31'));
+						
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+				</script>
+				<span class="value"><strong id="plh32">5425596705365</strong></span>
+			</div>
+			<script>
+var Model = QuidditaEnvironment.CurrentBasicClassifiedInfo;
+					
+						if (!Model['Šifra oglasa na sajtu'])
+							document.getElementById('plh300').parentNode.removeChild(document.getElementById('plh300'));
+						else
+							document.getElementById('plh32').innerHTML = Model['Šifra oglasa na sajtu'];
+					
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+			</script>
+			<div id="plh301" class="line">
+				<label id="plh33" class="description"><span>Šifra oglasa u agenciji</span>:</label>
+				<script>
+var Model = QuidditaEnvironment.CurrentBasicClassifiedInfo;
+						
+							if (!Model['Šifra oglasa u agenciji'])
+								document.getElementById('plh33').parentNode.removeChild(document.getElementById('plh33'));
+						
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+				</script>
+				<span class="value"><strong id="plh34"></strong></span>
+			</div>
+			<script>
+var Model = QuidditaEnvironment.CurrentBasicClassifiedInfo;
+					
+						if (!Model['Šifra oglasa u agenciji'])
+							document.getElementById('plh301').parentNode.removeChild(document.getElementById('plh301'));
+						else
+							document.getElementById('plh34').innerHTML = Model['Šifra oglasa u agenciji'];
+					
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+			</script>
+			<div id="plh302" class="line">
+				<label id="plh35" class="description"><span>Objavljen</span>:</label>
+				<script>
+var Model = QuidditaEnvironment.CurrentBasicClassifiedInfo;
+						
+							if (!Model['Objavljen'])
+								document.getElementById('plh35').parentNode.removeChild(document.getElementById('plh35'));
+						
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+				</script>
+				<span class="value"><strong id="plh36">17.12.2022. u 14:53</strong></span>
+			</div>
+			<script>
+var Model = QuidditaEnvironment.CurrentBasicClassifiedInfo;
+					
+						if (!Model['Objavljen'])
+							document.getElementById('plh302').parentNode.removeChild(document.getElementById('plh302'));
+						else
+							document.getElementById('plh36').innerHTML = Model['Objavljen'];
+					
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+			</script>
+	</div>
+</div>
+<script>
+var Model = QuidditaEnvironment.CurrentContactData;
+	
+	if (!QuidditaEnvironment.IsCurrentAdActive) {
+		var node = document.getElementById('divAdv2');
+		node.parentNode.parentNode.removeChild(node.parentNode);
+	}
+	
+
+			if(document.currentScript && document.currentScript.remove){{
+				document.currentScript.remove();
+			}}
+			else {{
+				var scripts = document.getElementsByTagName('script'); 
+				for(var i = scripts.length - 1; i > 0; i--){{ 
+					if(scripts[i].getAttribute('type')==null) 
+					{{
+						scripts[i].parentNode.removeChild(scripts[i]);
+						break;
+					}}
+				}} 
+			}}
+		
+</script>
+
+	</div>
+	<div data-widget-template-id="64" class="widget-banner-zone ref-p1 widget-banner-zone-s2 AdHere banner-s2-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrssdigljdsri"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.S2 */ado.slave('adoceanrssdigljdsri', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="163" class="widget-banner-zone ref-p1 widget-banner-zone-s3 AdHere banner-s3-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrsqicnpionem"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.ostale rubrike.S3  rubrike  market */ado.slave('adoceanrsqicnpionem', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="66" class="widget-banner-zone ref-p2 widget-banner-b1-zone AdHere banner-b1-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrswhfndpolfy"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.B1  300x130 */ado.slave('adoceanrswhfndpolfy', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="168" class="widget-banner-zone ref-p2 widget-banner-b11-zone AdHere banner-b2-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrsrflfijglnz"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.B11 */ado.slave('adoceanrsrflfijglnz', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="67" class="widget-banner-zone ref-p2 widget-banner-b21-zone AdHere banner-b2-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrstimtgmiqpt"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.B2  300x130 */ado.slave('adoceanrstimtgmiqpt', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="169" class="widget-banner-zone ref-p2 widget-banner-b22-zone AdHere banner-b2-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrsxgpkftoryn"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.B22300x130 */ado.slave('adoceanrsxgpkftoryn', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="170" class="widget-banner-zone ref-p2 widget-banner-b23-zone AdHere banner-b2-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrsuhgriqigdm"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.B23300x130 */ado.slave('adoceanrsuhgriqigdm', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="171" class="widget-banner-zone ref-p2 widget-banner-b24-zone AdHere banner-b2-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrslenspoqhnh"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.B2-4 300x130 */ado.slave('adoceanrslenspoqhnh', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="172" class="widget-banner-zone ref-p2 widget-banner-b25-zone AdHere banner-b2-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrsyeejdmkmtc"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.B2-5 300x130 */ado.slave('adoceanrsyeejdmkmtc', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="173" class="widget-banner-zone ref-p2 widget-banner-b26-zone AdHere banner-b2-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrsvflpgjerdx"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.B2-6 300x130 */ado.slave('adoceanrsvflpgjerdx', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="174" class="widget-banner-zone widget-banner-int-ho1-zone AdHere banner-b2-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><div id="adoceanrsxafsnjntpv"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2022, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.Halo oglasi  1 */ado.slave("adoceanrsxafsnjntpv", {myMaster: "_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7" });</script></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="175" class="widget-banner-zone widget-banner-zone-mozzart AdHere banner-b2-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrstkqlmvgjtz"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.Mozzart widget */ado.slave('adoceanrstkqlmvgjtz', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="176" class="widget-banner-zone widget-banner-zone-int AdHere banner-b2-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrslgjnqnspqf"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.Halooglasi widget */ado.slave('adoceanrslgjnqnspqf', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="177" class="widget-banner-zone widget-banner-zone-eponuda AdHere banner-b2-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrswlkkikhqje"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.Eponuda widget */ado.slave('adoceanrswlkkikhqje', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="178" class="widget-banner-zone widget-banner-zone-kurir AdHere banner-b2-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrsphesoqpgkp"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.Kurirov widget */ado.slave('adoceanrsphesoqpgkp', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="179" class="widget-banner-zone widget-banner-zone-adsence AdHere banner-b2-zone">
+		
+
+	<div class="banner-zone">
+		<center>
+			<div class="banner" style="margin:0 auto;width:300px;"><aside><!-- start slave --><div id="adoceanrszgogqrehkd"></div><script class="banner-script"  type="text/javascript">/* (c)AdOcean 2003-2015, halooglasi.com.Halooglasi.com.Halooglasi.com.Naslovna i ostale rubrike.AdSence 300x250 za Market */ado.slave('adoceanrszgogqrehkd', {myMaster: '_Ff1Xl6cjRvQMiTbLSi38s68PG8Ro3AMZh4m4j3y49z.x7' });</script><!--  end slave  --></aside></div>
+		</center>
+	</div>
+
+	</div>
+	<div data-widget-template-id="57" class="last_viewed_ads last_viewed_ads last-view-ad">
+		
+
+<div class="news-content" id="viewedAds" style="display:none;">
+	<div class="last-viewed" id="div-viewed-title">
+		<div class="last-viewed-title">Poslednje <br />pregledano</div>
+		<label id="clear-last-viewed">
+			obriši listu&nbsp;<span>╳</span>
+		</label>
+
+		<script id="lastViewedAds" type="text/x-handlebars-template">
+			{{#each this}}
+			<div class="last-viewed-ads">
+				{{#IfEquals CategoryNames.[0] "Posao"}}
+				<article class="row sidebar-box {{TopLevelCategoryCode this}}">
+					<div class="last-viewed-ads-img">
+						<figure class="sidebar-box-img">
+							{{#IfGreater ImageURLs.length 0}}
+							<a href="{{RelativeUrl}}">
+								<img src='{{Image ImageURLs.[0] "s"}}' class="" alt="{{Title}}">
+							</a>
+							{{else}}
+							<a href="{{RelativeUrl}}">
+								<img src="/Content/Quiddita/Widgets/Product/Stylesheets/img/job-no-image.png" style="margin:0 auto;" class="img-responsive" alt="{{Title}}">
+							</a>
+							{{/IfGreater}}
+						</figure>
+					</div>
+					<div class="last-viewed-ads-title">
+						<p><a href="{{RelativeUrl}}">{{Title}}</a></p>
+					</div>
+					<div class="last-viewed-ads-price">
+						{{#WithPriceIfExists this}}
+						<span class="price">
+							<span data-value="{{ToLowerCase this.value}}"><i>{{{this.value}}}&nbsp;{{#if this.unit}}{{{this.unit}}}{{/if}}</i></span>
+						</span>
+						{{/WithPriceIfExists}}
+					</div>
+					<div class="clear"></div>
+				</article>
+				{{else}}
+				<article class="row sidebar-box {{TopLevelCategoryCode this}}">
+					<div class="last-viewed-ads-img">
+						<figure class="sidebar-box-img">
+							{{#IfGreater ImageURLs.length 0}}
+							<a href="{{RelativeUrl}}">
+								<img src='{{Image ImageURLs.[0] "s"}}' class="" alt="">
+							</a>
+							{{else}}
+							<a href="{{RelativeUrl}}">
+								<img src="/Content/Quiddita/Widgets/Product/Stylesheets/img/no-image.jpg" style="margin:0 auto;" class="img-responsive" alt="">
+							</a>
+							{{/IfGreater}}
+						</figure>
+					</div>
+					<div class="last-viewed-ads-title">
+						<p><a href="{{RelativeUrl}}">{{Title}}</a></p>
+					</div>
+					
+					<div class="last-viewed-ads-price">
+						{{#WithPriceIfExists this}}
+						<span class="price">
+							<span data-value="{{ToLowerCase this.value}}"><i>{{{this.value}}}&nbsp;{{#if this.unit}}{{{this.unit}}}{{/if}}</i></span>
+						</span>
+						{{/WithPriceIfExists}}
+					</div>
+					<div class="clear"></div>
+				</article>
+				{{/IfEquals}}
+			</div>
+			{{/each}}
+			<div class="clear"></div>
+		</script>
+		<div class="clear"></div>
+		<div id="target-list"></div>
+	</div>
+</div>
+
+
+
+
+	</div>
+</aside>
+		</div>
+		<div class="row add-content-print" data-zone="additional-content">
+</div>
+	</div>
+</main>
+<div class="footer-wrapper">
+	<footer class="pre-footer" data-zone="pre-footer">
+	<div data-widget-template-id="7" class="widget-main-page-prefooter widget-main-page-prefooter ">
+		
+<div class="container">
+	<div class="footer-topline"></div>
+	<div class="row">
+		<div class="col-md-3 col-sm-6 pre-footer-col">
+			<h4 class="footer-title">Pomoć i podrška</h4>
+			<ul class="list-unstyled"><li><a href="/pomoc-i-podrska">Najče&scaron;ća pitanja i odgovori</a></li><li>E-mail:    <a href="mailto:podrska@halooglasi.com">podrska@halooglasi.com</a></li></ul>
+		</div>
+		<div class="col-md-3 col-sm-6 pre-footer-col">
+			<h4 class="footer-title">Informacije</h4>
+			<ul class="list-unstyled"><li><a href="/kontakt-i-radno-vreme">Kontakt i radno vreme</a></li><li><a href="/o-nama">O nama</a></li><li><a href="/pravila-i-uslovi">Uslovi kori&scaron;ćenja</a></li><li><a href="/upotreba-i-zastita-podataka">Upotreba i za&scaron;tita podataka</a></li></ul>
+		</div>
+		<div class="col-md-3 col-sm-6 pre-footer-col">
+			<h4 class="footer-title">Oglašavanje</h4>
+			<ul class="list-unstyled"><li><a href="/oglasavanje">Cenovnik ogla&scaron;avanja</a></li><li><a href="/deklaracija">Deklaracija</a></li><li><a href="/saveti-za-bezbednu-trgovinu">Saveti za bezbednu trgovinu</a></li></ul>
+		</div>
+		<div class="col-md-3 col-sm-6 pre-footer-col">
+			<p><a class="site-logo" href="/"> <span class="logo-footer"></span> </a></p>  <div class="social-icons-footer">  <ul>  <li><a href="https://www.youtube.com/user/halooglasicom" rel="external nofollow" target="_blank" title="Halooglasi Youtube"> <span class="youtube"></span> </a></li><li><a href="https://www.linkedin.com/company/halo-oglasi-d-o-o-/" rel="external nofollow" target="_blank" title="Halooglasi Linkedin"> <span class="linkedin"></span> </a></li><li><a href="https://twitter.com/Halooglasicom" rel="external nofollow" target="_blank" title="Halooglasi Twitter"> <span class="twitter"></span> </a></li>  <li><a href="https://instagram.com/halooglasi" rel="external nofollow" target="_blank" title="Halooglasi Instagram"> <span class="instagram"></span> </a></li>  <li><a href="https://www.facebook.com/Halooglasi" rel="external nofollow" target="_blank" title="Halooglasi Facebook"> <span class="facebook"></span> </a></li>  <li>Pratite nas na</li>  </ul>  <div class="clear"></div>  </div>
+		</div>
+	</div>
+	<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="margin: 0;" class="visible-intesa-payment">
+		<tbody>
+			<tr>
+				<td width="50%" nowrap="nowrap" align="left" valign="middle">
+					<a href="https://rs.visa.com/pay-with-visa/security-and-assistance/protected-everywhere.html" target="_blank">
+						<i class="sprite sprite-logo-verified-by-visa"></i>
+					</a>
+					<a href="https://www.mastercard.com/rs/consumer/credit-cards.html" target="_blank">
+						<i class="sprite sprite-logo-mastercard-secure-code"></i>
+					</a>
+				</td>
+				<td width="50%" nowrap="nowrap" align="right" valign="middle">
+					<div>
+						<i class="sprite sprite-logo-mastercard"></i>
+						<i class="sprite sprite-logo-maestro"></i>
+						<i class="sprite sprite-logo-amex"></i>
+						<a target="_new" href="https://www.bancaintesa.rs" class="bancainesa-logo">
+							<i class="sprite sprite-logo-banca-intesa"></i>
+						</a>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+	</div>
+</footer>
+	<section class="footer" data-zone="footer">
+	<div data-widget-template-id="6" class="widget-main-page-footer widget-main-page-footer ">
+		<div class="container footer-container">
+	<div class="row">
+			<div class="col-md-12 col-sm-12">
+				<ul class="footer-status hidden-xs">
+					<li class="no-border require-desktop"><a class="" id="require-desktop-version" href="#"><span class="fa fa-desktop"></span> Prikaži desktop verziju sajta</a></li>
+					<li class="no-border require-mobile" style='display:none'><a class="" id="require-mobile-version" href="#"><span class="fa fa-mobile"></span> Prikaži mobilnu verziju sajta</a></li>
+					<div class="clear"></div>
+				</ul>
+				<div class="clear"></div>
+			</div>
+	</div>
+</div>
+<section class="bottom-footer hidden-xs">
+	<div class="container">
+		
+		<div class="row">
+			<p>Sva prava zadržana. Celokupan sadržaj web sajta www.halooglasi.com, sav tekst, slike, audio i video materijal u vlasni&scaron;tvu su preduzeća za izdava&scaron;tvo i usluge Halo oglasi d.o.o. <span class="quiddita-development" style="display: none;">Razvoj <a href="http://www.quiddita.rs/" class="quiddita"></a></span></p>
+		</div>
+	</div>
+</section>
+
+	</div>
+</section>
+</div>
+
+ 
+	</div>
+
+	<!-- Fiscal receipt modal -->
+	<div class="modal fade" id="fiscalReceiptModal" tabindex="-1" role="dialog" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-body">
+					<p>Dragi korisniče,</p>
+					<p>Od 01.05.2022. na snagu stupa nov Zakon o fiskalizaciji. Obaveza pravnog lica je da svakom fizičkom licu izda i dostavi fiskalni račun.</p>
+					<div class="fiscal-receipt-checkbox-modal-wrapper">
+						<input id="HasAgreedToGetFiscalReceiptByEmailModal" name="HasAgreedToGetFiscalReceiptByEmailModal" type="checkbox">
+						<label class="bold" for="HasAgreedToGetFiscalReceiptByEmailModal">Saglasan sam da fiskalne račune dobijam elektronskim putem na mejl adresu navedenu u nalogu</label>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-primary save-fiscal-receipt-agreement">Potvrdi</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+		<script src="/Scripts/app.min.js?ver=1.1.2212.1.j"></script>
+
+<script src="/ScriptConfigurations/CategoryAttributeOverview?ver=1.1.2212.1.j"></script>
+
+
+
+<script>
+
+	require.config({
+		config: {
+			'Content/Quiddita/Widgets/Product/Scripts/facets': {
+				SearchConf: QuidditaEnvironment.CategoryAttributeOverviewConfiguration
+			},
+			'Content/Quiddita/Widgets/Product/Scripts/AdList/ad.handlebars.helpers': {
+				DisplayConf: QuidditaEnvironment.CategoryAttributeOverviewConfiguration
+			}
+		}
+	});
+</script>
+
+
+<script>
+		require(['Content/Quiddita/Widgets/Common/Scripts/Header/header'], function () {});
+		require(['Content/Quiddita/Widgets/Product/Scripts/AdSearchAhead/adSearchAhead'], function (adSearchAhead) {
+		Mediator.bindPluginToOperatingContextRole('main', 'adSearchAhead', adSearchAhead);
+	});
+		require(['Content/Quiddita/Widgets/Common/Scripts/ItemPager/itemPager'], function (pager) {
+	
+});
+		require(['Content/Quiddita/Widgets/Product/Scripts/Product/template'], function (adTemplate) {
+adTemplate.initialize('mapDisplay', 24);
+});
+		require(['Content/Quiddita/Widgets/Product/Scripts/AdvertiserInfo/AdvertiserInfo'], function (advertiserInfoJs) { });
+		require(['Content/Quiddita/Widgets/Product/Scripts/LastViewedAds/LastViewedAds'], function (LastViewedAds) {
+	LastViewedAds.init();
+});
+</script>
+
+<script>
+	if ($('body:not(.cpc-Login):not(.cpc-Registration)').hasClass('qmobile-device')) {
+		$('body').on('focus', 'input[type=text], input[type=search], input[type=password]', function () {
+			$('body').scrollTo($(this), 400, { offset: -screen.height / 3 });
+		});
+	}
+
+	if (typeof QuidditaEnvironment.pushDataLayerEvent == 'function') {
+		if (qdt.utils.url.deparam(window.location.search)['extreg'])
+			QuidditaEnvironment.pushDataLayerEvent('HaloOglasi', 'user_interaction', 'business', 'sign_up_b2c');
+		else if (qdt.utils.url.deparam(window.location.search)['extlog'])
+			QuidditaEnvironment.pushDataLayerEvent('HaloOglasi', 'user_interaction', 'user', 'login');
+
+		$('#androidAppWrapper .install-app').click(function () {
+			QuidditaEnvironment.pushDataLayerEvent('HaloOglasi', 'user_interaction', 'app vendor', 'click_app_link');
+		});
+	}
+</script>
+
+	
+	<script src=/Content/assets/frontend/layout/scripts/cookie-policy.js?ver=1.1.2212.1.j></script>
+
+	<script>
+		var toShow = false;
+		if (toShow)
+			$('#fiscalReceiptModal').modal('show');
+		else
+			$('#fiscalReceiptModal').remove();
+	</script>
+
+	
+	<div class="device-xs visible-xs"></div>
+	<div class="device-sm visible-sm"></div>
+	<div class="device-md visible-md"></div>
+	<div class="device-lg visible-lg"></div>
+	<script type="text/javascript">
+		var ghmxy_type = 'percent';
+		var ghmxy_identifier = 'd02adoL_Ix5pNrKZJPaodpRpDqs6rA8yxEjWTmpS1br.s7';
+		var ghmxy_hitcollector = 'ghmrs.hit.gemius.pl';
+	</script>
+	<script async type="text/javascript" src="https://ghmrs.hit.gemius.pl/hmapxy.js"></script>
+	
+</body>
+</html>
